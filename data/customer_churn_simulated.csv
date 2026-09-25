@@ -1,0 +1,1201 @@
+customer_id,tenure_months,plan_type,monthly_charges,total_charges,contract_type,payment_method,support_tickets,tech_issues,usage_hours_month,late_payments,satisfaction_score,autopay,region,churn
+CUST-00001,2,Premium,80.5,158.81,One year,Electronic check,0,2,47,0,3,No,East,1
+CUST-00002,14,Standard,57.78,769.61,One year,Bank transfer,1,0,16,2,3.2,Yes,West,0
+CUST-00003,1,Basic,28.87,28.55,One year,Electronic check,1,0,22,0,2.5,No,East,0
+CUST-00004,1,Standard,51.24,48.34,One year,Credit card,1,2,33,1,2.9,No,West,0
+CUST-00005,6,Basic,40.65,234.67,Two year,Mailed check,3,2,2,1,2.3,No,West,1
+CUST-00006,26,Standard,70.53,1747.41,One year,Mailed check,3,1,23,1,2.6,No,South,1
+CUST-00007,1,Basic,40.55,40.14,Two year,Electronic check,2,1,9,1,2.7,No,North,0
+CUST-00008,1,Basic,33.42,32.74,Month-to-month,Bank transfer,2,2,17,2,2.5,Yes,West,1
+CUST-00009,43,Basic,37.45,1529,Two year,Electronic check,1,1,21,2,2.5,Yes,East,0
+CUST-00010,20,Basic,27.68,558.47,Month-to-month,Bank transfer,7,0,31,1,1.6,No,North,1
+CUST-00011,24,Basic,28.49,666.84,One year,Credit card,1,2,18,0,3.4,No,West,0
+CUST-00012,1,Basic,37.05,36.1,Month-to-month,Bank transfer,6,3,41,1,1.6,No,North,1
+CUST-00013,22,Standard,52.36,1086.42,Month-to-month,Mailed check,1,1,28,1,2.9,Yes,West,1
+CUST-00014,1,Basic,32.17,32.92,One year,Electronic check,6,3,45,0,2.8,No,South,1
+CUST-00015,15,Standard,58.94,909.53,Month-to-month,Mailed check,0,1,12,3,3.8,No,East,0
+CUST-00016,4,Standard,61.27,252.17,Two year,Credit card,1,2,34,1,1.9,No,North,1
+CUST-00017,1,Premium,83.5,83.96,One year,Credit card,1,0,38,2,2.1,No,West,0
+CUST-00018,20,Premium,77.95,1597.84,One year,Credit card,0,0,24,2,2,No,South,1
+CUST-00019,10,Premium,92.33,886.38,Month-to-month,Electronic check,2,3,34,0,2.9,No,South,1
+CUST-00020,33,Basic,32.41,1055.25,Month-to-month,Electronic check,3,0,25,1,2.6,Yes,South,0
+CUST-00021,8,Basic,31.73,247.2,Month-to-month,Credit card,2,1,25,2,1.8,Yes,North,1
+CUST-00022,28,Standard,63.12,1758.98,One year,Credit card,0,1,31,2,3.7,No,West,1
+CUST-00023,1,Standard,54.37,51.68,Two year,Credit card,1,0,36,0,4.7,Yes,East,0
+CUST-00024,17,Standard,48.08,783.44,One year,Mailed check,0,0,36,1,4,Yes,North,0
+CUST-00025,8,Basic,27.94,228.57,Two year,Credit card,3,0,30,2,2,No,West,0
+CUST-00026,18,Standard,55.39,969.92,Month-to-month,Bank transfer,3,3,31,3,2.2,No,East,1
+CUST-00027,43,Basic,44.27,1806.93,Two year,Mailed check,2,1,18,1,3.5,Yes,West,0
+CUST-00028,38,Premium,99.57,3656.63,Two year,Credit card,0,1,54,1,3.2,No,South,0
+CUST-00029,27,Premium,86.97,2290.87,One year,Electronic check,2,2,48,0,4,No,South,1
+CUST-00030,12,Basic,35.91,430.05,Two year,Credit card,1,1,20,1,3.8,No,North,1
+CUST-00031,22,Premium,88.18,1892.28,Month-to-month,Bank transfer,0,2,37,2,2.9,Yes,North,0
+CUST-00032,2,Standard,57.11,112,One year,Mailed check,4,2,33,1,3.6,Yes,North,1
+CUST-00033,22,Basic,41.24,896.87,Month-to-month,Mailed check,0,0,27,3,3.7,Yes,West,1
+CUST-00034,20,Premium,100.86,1991.28,Month-to-month,Mailed check,2,1,36,0,2.9,Yes,West,1
+CUST-00035,15,Premium,84.08,1275.41,Month-to-month,Electronic check,1,1,29,0,3.5,No,South,1
+CUST-00036,2,Basic,27.44,52.27,Month-to-month,Credit card,0,3,27,2,3.2,Yes,South,1
+CUST-00037,12,Standard,71.42,812.06,One year,Credit card,3,2,34,2,2.1,No,South,1
+CUST-00038,16,Premium,86.62,1316.96,One year,Electronic check,0,1,40,0,3.7,Yes,East,0
+CUST-00039,27,Premium,94.32,2526.8,One year,Credit card,4,1,46,1,2.1,Yes,South,1
+CUST-00040,21,Premium,94.22,1920.57,One year,Credit card,2,1,21,1,2.5,No,East,0
+CUST-00041,40,Standard,64.06,2443.05,One year,Mailed check,0,2,40,1,2.7,No,East,1
+CUST-00042,12,Premium,79.38,943.86,One year,Bank transfer,0,3,23,1,3.4,Yes,North,0
+CUST-00043,31,Standard,60.66,1933.09,Two year,Mailed check,0,1,35,1,3.2,Yes,East,0
+CUST-00044,19,Premium,81.24,1527.9,One year,Mailed check,3,0,34,2,2.3,Yes,South,1
+CUST-00045,39,Standard,61.9,2384.25,One year,Bank transfer,0,2,21,0,3.8,Yes,South,0
+CUST-00046,30,Premium,92.61,2647.68,Two year,Electronic check,3,0,39,1,2.6,Yes,South,0
+CUST-00047,35,Premium,90.48,3204.78,Month-to-month,Credit card,3,0,44,1,1.7,Yes,West,1
+CUST-00048,11,Basic,33.67,374.52,Two year,Credit card,0,2,16,1,4.1,Yes,North,0
+CUST-00049,15,Premium,89.98,1321.98,Two year,Credit card,0,1,36,2,3.6,No,West,1
+CUST-00050,22,Standard,53.37,1177.95,One year,Electronic check,3,0,44,0,3.6,Yes,West,0
+CUST-00051,3,Premium,86.26,259.25,One year,Electronic check,2,1,44,0,3.4,Yes,West,0
+CUST-00052,6,Basic,40.72,247.77,Month-to-month,Bank transfer,3,1,17,2,2.1,No,East,1
+CUST-00053,38,Basic,34.61,1342.18,Two year,Credit card,3,1,40,0,3.5,Yes,North,0
+CUST-00054,32,Basic,40.52,1248.65,Month-to-month,Electronic check,1,1,33,3,2.6,No,South,0
+CUST-00055,17,Premium,97.21,1617.41,Month-to-month,Bank transfer,0,1,35,2,2.8,No,West,1
+CUST-00056,41,Premium,91.66,3633.74,Two year,Credit card,0,2,31,1,3.3,No,East,0
+CUST-00057,2,Premium,80.64,160.71,One year,Electronic check,2,1,58,0,4,No,West,0
+CUST-00058,15,Standard,48.39,746.99,Two year,Bank transfer,0,0,27,1,3.5,Yes,North,0
+CUST-00059,29,Premium,89.95,2658.63,Month-to-month,Credit card,0,1,52,2,3.2,Yes,South,1
+CUST-00060,18,Standard,53.72,935.56,One year,Mailed check,2,2,34,1,1.9,Yes,South,1
+CUST-00061,26,Premium,88.35,2368.5,One year,Bank transfer,0,0,49,2,3.9,No,South,0
+CUST-00062,15,Premium,95.62,1359.27,Two year,Bank transfer,0,1,43,1,2.4,Yes,North,0
+CUST-00063,23,Premium,76.82,1830.06,One year,Bank transfer,4,1,34,2,2.5,Yes,West,0
+CUST-00064,21,Standard,55.96,1164.73,One year,Electronic check,0,2,23,0,2.8,No,West,1
+CUST-00065,12,Basic,31,358.51,Two year,Credit card,1,2,22,0,2.1,Yes,West,0
+CUST-00066,26,Standard,49.91,1335.86,Month-to-month,Bank transfer,1,2,41,1,2.9,No,South,1
+CUST-00067,23,Standard,58.26,1300.47,Two year,Credit card,3,0,30,1,1.9,Yes,South,1
+CUST-00068,22,Premium,78.34,1630.14,Two year,Mailed check,3,0,45,1,3.4,No,South,0
+CUST-00069,15,Basic,29.03,437.41,Two year,Bank transfer,0,3,32,0,1.7,Yes,North,0
+CUST-00070,5,Standard,54.01,275.81,One year,Mailed check,0,0,37,2,3.7,Yes,North,1
+CUST-00071,30,Premium,82.37,2344.52,Month-to-month,Bank transfer,1,2,24,2,3.4,No,East,1
+CUST-00072,10,Basic,31.81,306.49,Month-to-month,Mailed check,3,0,13,3,3.2,No,West,1
+CUST-00073,15,Premium,72.23,1124.99,One year,Bank transfer,1,1,37,1,2.4,Yes,North,1
+CUST-00074,1,Standard,61.76,60.09,Month-to-month,Electronic check,1,1,41,1,2.7,Yes,South,1
+CUST-00075,13,Standard,58.27,777.1,Month-to-month,Electronic check,2,2,34,3,3.2,No,West,0
+CUST-00076,36,Standard,53.6,1884.76,Two year,Credit card,2,1,28,1,2,Yes,East,0
+CUST-00077,19,Standard,55.7,1029.39,Two year,Mailed check,3,0,38,0,3.6,No,South,0
+CUST-00078,19,Basic,36.87,674.15,One year,Bank transfer,2,3,15,1,1.7,Yes,East,1
+CUST-00079,28,Basic,35.22,971.13,Two year,Electronic check,2,0,6,2,3.8,No,East,0
+CUST-00080,1,Basic,38.68,37.1,Month-to-month,Credit card,2,4,3,1,2.8,No,East,0
+CUST-00081,21,Premium,90.63,1807.1,Two year,Bank transfer,2,2,50,2,3.1,No,West,1
+CUST-00082,28,Premium,90.31,2451.21,Month-to-month,Bank transfer,1,1,59,2,2.8,No,North,0
+CUST-00083,15,Basic,28.46,412.97,One year,Credit card,2,1,34,2,2,No,South,1
+CUST-00084,2,Basic,37.47,77.15,Two year,Mailed check,2,3,27,1,2.4,No,East,0
+CUST-00085,15,Standard,84.09,1219.28,One year,Bank transfer,2,0,31,1,2.8,Yes,North,0
+CUST-00086,20,Standard,57.89,1171.68,Two year,Credit card,6,3,46,0,1.9,Yes,North,1
+CUST-00087,21,Premium,81.18,1615.2,Month-to-month,Credit card,1,2,35,1,4,No,East,1
+CUST-00088,2,Premium,88.17,167.22,Two year,Credit card,0,3,52,2,3.7,No,South,1
+CUST-00089,1,Standard,55.77,54.61,One year,Electronic check,0,0,27,0,3.9,No,East,0
+CUST-00090,2,Standard,66.13,130.06,One year,Credit card,0,1,57,2,3,No,North,1
+CUST-00091,2,Premium,79.95,156.33,Two year,Bank transfer,2,1,38,0,3.4,No,South,0
+CUST-00092,11,Standard,67.27,707.04,Two year,Credit card,0,2,21,2,3.7,Yes,South,0
+CUST-00093,32,Standard,59.74,1864.64,Two year,Credit card,0,1,22,0,2.3,Yes,West,0
+CUST-00094,20,Standard,74.87,1428.88,Two year,Credit card,1,1,37,3,2.3,Yes,North,0
+CUST-00095,1,Standard,53.65,51.98,One year,Credit card,0,0,29,0,2.8,No,West,1
+CUST-00096,28,Standard,53.24,1533.27,Two year,Electronic check,1,4,29,2,2.4,No,North,1
+CUST-00097,13,Premium,85.28,1052.05,Month-to-month,Mailed check,0,2,40,0,2.6,No,East,1
+CUST-00098,10,Standard,59.7,615.05,One year,Credit card,1,1,22,0,1.9,Yes,East,0
+CUST-00099,6,Standard,57.04,336.97,Month-to-month,Mailed check,0,1,42,2,3.1,No,South,1
+CUST-00100,33,Basic,39.05,1237.98,One year,Bank transfer,1,0,17,1,2.8,Yes,South,0
+CUST-00101,29,Standard,61.4,1800.09,One year,Credit card,2,0,24,2,2.6,No,North,0
+CUST-00102,12,Premium,70.97,831.97,One year,Bank transfer,1,1,51,2,2.5,Yes,South,0
+CUST-00103,18,Premium,85.45,1472.64,Two year,Credit card,0,2,41,0,2.6,No,East,0
+CUST-00104,7,Basic,39.07,269.9,One year,Mailed check,0,1,34,0,2.4,No,West,0
+CUST-00105,41,Basic,36.61,1521.27,One year,Bank transfer,2,2,17,1,2.6,No,South,1
+CUST-00106,13,Basic,29.34,363.42,Two year,Bank transfer,0,3,31,2,2.3,Yes,North,0
+CUST-00107,38,Standard,64.99,2376.28,Two year,Credit card,1,2,39,0,2,Yes,East,0
+CUST-00108,19,Premium,80.64,1545.33,Month-to-month,Electronic check,3,1,45,1,4.5,No,East,0
+CUST-00109,2,Premium,83.9,164.38,One year,Mailed check,1,2,41,0,2,No,East,0
+CUST-00110,12,Premium,91.88,1118,Two year,Mailed check,1,1,32,1,3.5,No,North,0
+CUST-00111,28,Premium,75.92,2128.96,Two year,Credit card,2,3,45,1,3.2,No,East,0
+CUST-00112,1,Basic,35.9,35.68,Two year,Mailed check,2,3,31,0,2.2,No,East,1
+CUST-00113,29,Premium,85.83,2388.43,One year,Mailed check,3,0,29,2,3.2,No,East,1
+CUST-00114,26,Premium,73.64,1874.73,One year,Credit card,0,1,60,1,3.4,Yes,North,0
+CUST-00115,20,Standard,62.86,1242.06,Month-to-month,Credit card,1,2,33,4,2.4,No,North,1
+CUST-00116,18,Basic,24.22,416.37,Month-to-month,Bank transfer,4,3,16,1,2,No,South,1
+CUST-00117,4,Premium,98.72,378.88,Two year,Mailed check,1,0,33,2,3.5,No,West,1
+CUST-00118,23,Standard,56.47,1259.09,Month-to-month,Credit card,2,1,38,1,3.7,No,South,1
+CUST-00119,36,Premium,98.81,3664.87,Two year,Electronic check,0,0,47,1,3.5,No,West,0
+CUST-00120,44,Standard,53.44,2419.72,One year,Credit card,0,0,37,1,4,Yes,South,0
+CUST-00121,16,Standard,56.1,908.33,Month-to-month,Electronic check,4,2,39,1,2.6,Yes,South,1
+CUST-00122,17,Standard,52.46,857.96,Month-to-month,Mailed check,1,1,32,1,2.6,Yes,West,1
+CUST-00123,3,Basic,33.86,97.13,One year,Credit card,6,3,16,0,2.6,Yes,West,1
+CUST-00124,23,Standard,42.14,982.82,One year,Credit card,1,0,41,0,4.3,Yes,East,0
+CUST-00125,16,Standard,69.17,1089.43,Two year,Bank transfer,4,1,33,2,2.9,Yes,North,1
+CUST-00126,8,Standard,65.34,534.1,Two year,Electronic check,2,2,15,1,2.6,No,East,1
+CUST-00127,22,Premium,80.87,1832.78,One year,Mailed check,0,0,37,1,2.9,Yes,North,0
+CUST-00128,48,Premium,88.91,4425.14,One year,Mailed check,0,4,33,2,3.3,Yes,South,0
+CUST-00129,31,Premium,83.01,2432.47,One year,Bank transfer,2,1,52,0,3,Yes,East,0
+CUST-00130,13,Standard,54.92,713.48,One year,Mailed check,2,2,35,2,2.3,Yes,South,0
+CUST-00131,10,Standard,51.59,489.08,One year,Bank transfer,1,0,34,0,3.2,No,East,0
+CUST-00132,3,Basic,29.41,84.22,Month-to-month,Electronic check,2,0,18,2,2.7,No,West,1
+CUST-00133,19,Basic,33.26,653.22,Two year,Bank transfer,0,0,18,1,3.5,No,East,0
+CUST-00134,29,Standard,56.63,1659.6,One year,Mailed check,0,1,35,2,3.2,Yes,South,1
+CUST-00135,19,Basic,40.04,774.14,Two year,Bank transfer,0,2,27,1,3.6,No,East,0
+CUST-00136,16,Standard,57.26,929.83,Two year,Bank transfer,0,2,34,3,1.8,No,East,0
+CUST-00137,17,Standard,49.99,851.68,Month-to-month,Credit card,3,0,19,3,2.1,No,South,0
+CUST-00138,17,Premium,88.05,1550.5,One year,Bank transfer,0,2,49,0,3.1,No,North,0
+CUST-00139,38,Standard,59.14,2150.45,Two year,Bank transfer,2,1,31,1,3,Yes,South,0
+CUST-00140,14,Premium,65.65,945.95,Month-to-month,Credit card,2,3,35,2,1.5,No,South,1
+CUST-00141,4,Standard,63.65,261.92,Month-to-month,Electronic check,4,2,30,2,1.7,No,North,1
+CUST-00142,11,Basic,40.43,446.29,One year,Mailed check,3,0,18,2,2.4,No,South,1
+CUST-00143,15,Standard,53.87,782.41,One year,Bank transfer,0,1,45,1,3.5,No,West,0
+CUST-00144,19,Basic,42.4,831.78,Month-to-month,Bank transfer,0,2,16,2,2.3,No,South,1
+CUST-00145,51,Basic,31.43,1631.4,Two year,Electronic check,2,2,20,2,3.4,No,East,1
+CUST-00146,18,Standard,62.01,1056.24,One year,Mailed check,0,0,35,2,2.6,No,East,0
+CUST-00147,23,Basic,41.48,926.68,Two year,Mailed check,0,1,28,3,3,Yes,South,0
+CUST-00148,18,Premium,90.59,1685.39,Two year,Electronic check,3,2,49,0,3.2,Yes,North,0
+CUST-00149,13,Premium,99.86,1344.21,Month-to-month,Electronic check,2,1,45,0,2.7,Yes,West,0
+CUST-00150,13,Basic,39.49,485.26,One year,Bank transfer,0,3,27,0,3.7,Yes,North,0
+CUST-00151,25,Basic,34.16,856.02,Two year,Electronic check,0,2,12,0,3.1,Yes,East,0
+CUST-00152,7,Premium,65.36,448.86,One year,Credit card,3,0,50,0,3.4,No,South,0
+CUST-00153,27,Basic,30.68,787.12,Two year,Electronic check,1,2,20,0,2.3,Yes,West,0
+CUST-00154,8,Standard,59.56,476.29,Month-to-month,Credit card,2,1,40,4,3.1,No,East,0
+CUST-00155,24,Premium,102.81,2499.6,One year,Credit card,0,1,29,1,2.4,No,South,0
+CUST-00156,13,Standard,50.58,655.67,One year,Electronic check,1,0,11,0,2.5,Yes,West,0
+CUST-00157,14,Premium,96.83,1318.92,Two year,Mailed check,0,0,54,2,3.2,Yes,West,0
+CUST-00158,9,Basic,24.9,221.23,One year,Credit card,0,0,39,3,2.9,Yes,South,0
+CUST-00159,27,Standard,52.72,1460.76,Two year,Mailed check,2,1,44,1,2.6,Yes,North,1
+CUST-00160,24,Standard,61.57,1412,Two year,Bank transfer,0,1,32,0,3.4,Yes,South,0
+CUST-00161,19,Basic,40.01,773.68,Two year,Credit card,2,2,33,0,3.6,No,South,0
+CUST-00162,6,Basic,28.66,172.7,One year,Electronic check,0,2,29,2,3.3,Yes,East,0
+CUST-00163,15,Premium,64.34,995.78,One year,Electronic check,0,1,45,3,2.5,No,East,0
+CUST-00164,24,Premium,107.9,2603.41,One year,Credit card,0,0,60,0,3.2,No,North,0
+CUST-00165,1,Standard,58.61,60.29,Month-to-month,Bank transfer,2,0,20,2,2.9,No,West,1
+CUST-00166,13,Premium,76.04,987.17,Month-to-month,Credit card,0,3,42,2,2,No,West,1
+CUST-00167,28,Basic,36.44,1051.09,Month-to-month,Electronic check,1,1,10,0,4.9,No,North,0
+CUST-00168,41,Premium,74.05,2936,Month-to-month,Mailed check,2,1,37,0,3.4,Yes,North,1
+CUST-00169,19,Standard,58.77,1051.59,Month-to-month,Credit card,2,0,28,0,3.1,No,East,0
+CUST-00170,11,Premium,87.12,992.21,Month-to-month,Bank transfer,0,0,34,1,2.8,No,North,1
+CUST-00171,9,Premium,82.01,705.89,Two year,Bank transfer,0,2,42,0,3.4,No,North,0
+CUST-00172,26,Premium,83.97,2080.15,Two year,Bank transfer,0,1,57,1,4.5,No,East,0
+CUST-00173,22,Basic,35.11,756.64,Two year,Credit card,3,2,33,1,2.7,No,East,0
+CUST-00174,28,Premium,82.69,2220.77,Two year,Electronic check,2,1,35,0,3.8,No,South,0
+CUST-00175,14,Standard,64.51,851.31,Two year,Mailed check,0,0,44,3,3.4,Yes,South,0
+CUST-00176,13,Premium,83.67,1073.35,Month-to-month,Electronic check,5,2,52,3,2.4,No,East,1
+CUST-00177,29,Standard,62.27,1798.97,Month-to-month,Mailed check,2,0,44,4,3.6,No,West,1
+CUST-00178,1,Standard,59.38,55.95,Month-to-month,Electronic check,1,2,33,0,3.3,No,North,1
+CUST-00179,38,Premium,83.17,3166.19,Month-to-month,Credit card,2,0,37,2,3.3,Yes,North,0
+CUST-00180,17,Standard,52.39,915.59,One year,Bank transfer,4,0,28,0,2.5,Yes,South,0
+CUST-00181,14,Standard,58.35,833.23,One year,Credit card,1,3,36,1,2.9,Yes,West,1
+CUST-00182,18,Premium,103.8,1928.69,One year,Electronic check,1,1,53,1,3.7,Yes,East,1
+CUST-00183,16,Standard,57.59,866.54,Month-to-month,Credit card,0,0,36,1,2.6,Yes,South,0
+CUST-00184,18,Basic,28.4,522.14,Two year,Credit card,1,0,25,0,3,No,West,0
+CUST-00185,17,Basic,35.13,575.31,Two year,Electronic check,1,0,9,1,2.4,No,South,0
+CUST-00186,17,Basic,38.41,677.93,Month-to-month,Bank transfer,3,3,28,0,2.6,No,South,1
+CUST-00187,10,Standard,60.58,625.68,One year,Bank transfer,0,3,39,1,2.6,Yes,South,0
+CUST-00188,22,Standard,56.95,1289.47,Two year,Electronic check,0,1,34,0,2.8,No,South,0
+CUST-00189,29,Premium,95.5,2755.71,Two year,Bank transfer,1,3,49,1,3,Yes,South,0
+CUST-00190,33,Standard,62.85,2116.06,Month-to-month,Electronic check,4,1,20,1,2.7,Yes,North,1
+CUST-00191,10,Premium,83.17,844.59,Two year,Bank transfer,0,0,43,2,3.4,Yes,North,0
+CUST-00192,11,Basic,32.85,368.29,One year,Mailed check,2,0,12,0,2.7,No,East,1
+CUST-00193,24,Basic,39.95,954.55,Month-to-month,Bank transfer,1,1,19,2,2.7,No,South,1
+CUST-00194,11,Premium,87.15,930.38,Two year,Bank transfer,3,2,31,0,2.2,No,North,0
+CUST-00195,1,Standard,70.45,69.29,Two year,Credit card,3,1,20,1,2.5,Yes,West,1
+CUST-00196,11,Standard,62.75,697.94,Two year,Mailed check,4,1,27,0,2.7,Yes,East,0
+CUST-00197,26,Premium,93.11,2277.43,One year,Mailed check,1,0,53,2,2.5,Yes,North,0
+CUST-00198,12,Basic,35.18,422.31,Month-to-month,Credit card,4,1,2,1,2.9,No,West,1
+CUST-00199,26,Standard,63.07,1635.98,Two year,Mailed check,0,1,26,1,3.8,Yes,North,1
+CUST-00200,24,Basic,32.29,781.18,Two year,Bank transfer,3,1,23,3,1.9,No,East,1
+CUST-00201,21,Standard,52.61,1086.75,Two year,Mailed check,2,1,21,1,2.2,No,West,0
+CUST-00202,8,Basic,29.1,226.39,Month-to-month,Electronic check,1,3,14,2,2.4,No,South,1
+CUST-00203,14,Standard,61.42,888.83,Two year,Credit card,0,0,37,0,3.4,Yes,East,0
+CUST-00204,25,Standard,60.5,1457.77,One year,Bank transfer,3,1,36,2,3.9,No,East,0
+CUST-00205,9,Basic,40.03,371.28,Month-to-month,Mailed check,1,0,30,1,3.8,Yes,West,1
+CUST-00206,10,Basic,34.73,327.2,One year,Mailed check,0,1,20,1,3.1,No,East,0
+CUST-00207,26,Standard,48.82,1312.08,Two year,Bank transfer,0,0,11,2,3.8,No,West,0
+CUST-00208,41,Premium,87.42,3455.76,Month-to-month,Mailed check,1,0,42,0,3.5,Yes,East,1
+CUST-00209,25,Standard,67.58,1742.01,One year,Electronic check,0,1,35,0,3.7,No,North,0
+CUST-00210,18,Premium,78.03,1399.55,One year,Credit card,0,1,49,1,2.4,No,South,0
+CUST-00211,12,Standard,61.75,696.78,Two year,Electronic check,2,2,25,1,3.4,Yes,North,0
+CUST-00212,6,Basic,35.78,219.34,Month-to-month,Bank transfer,3,1,27,2,2.8,No,South,1
+CUST-00213,21,Basic,36.77,793.5,Two year,Credit card,0,0,22,0,3.5,No,South,0
+CUST-00214,23,Basic,41.44,958.91,One year,Mailed check,0,1,26,1,3.3,Yes,West,0
+CUST-00215,35,Premium,76.03,2721.56,Two year,Mailed check,0,2,53,0,3.1,Yes,East,0
+CUST-00216,22,Standard,66.79,1487.66,Month-to-month,Credit card,0,0,18,2,2.3,No,West,1
+CUST-00217,23,Premium,84.66,2014.87,Two year,Bank transfer,1,2,55,3,3,No,North,0
+CUST-00218,20,Basic,43.13,886.7,Two year,Mailed check,0,2,34,1,2.5,No,South,0
+CUST-00219,21,Premium,79.79,1720.64,Two year,Mailed check,0,1,32,0,2.7,Yes,West,1
+CUST-00220,16,Standard,53.34,857.51,Two year,Mailed check,3,0,31,0,3.9,Yes,South,0
+CUST-00221,12,Standard,64.25,727.58,Two year,Bank transfer,0,2,13,0,3.5,Yes,South,0
+CUST-00222,3,Standard,53.33,163.75,Month-to-month,Electronic check,3,0,22,2,2.4,No,North,1
+CUST-00223,8,Basic,39.86,321.41,Two year,Credit card,1,0,35,1,2.6,Yes,North,0
+CUST-00224,18,Basic,30.03,517.74,Month-to-month,Electronic check,0,2,25,0,4,No,North,1
+CUST-00225,6,Standard,55.61,324.3,Month-to-month,Mailed check,1,0,32,1,3.1,Yes,East,1
+CUST-00226,11,Basic,34.33,370.55,Month-to-month,Electronic check,5,2,39,1,3,Yes,East,1
+CUST-00227,1,Basic,29.58,30.4,One year,Bank transfer,0,4,31,1,3,No,West,1
+CUST-00228,16,Standard,60.93,965.59,Two year,Mailed check,0,1,22,0,3.1,No,North,0
+CUST-00229,24,Basic,40.2,968.79,One year,Credit card,0,4,9,2,2,No,West,0
+CUST-00230,26,Premium,84.23,2097.39,Two year,Electronic check,0,2,52,0,3.1,Yes,West,0
+CUST-00231,16,Standard,57.9,948.76,One year,Electronic check,4,1,27,2,1.8,No,North,1
+CUST-00232,12,Standard,57.58,654.99,Month-to-month,Bank transfer,2,0,22,1,3.3,No,West,0
+CUST-00233,42,Standard,44.19,1843.67,Two year,Mailed check,2,1,42,0,3.1,No,West,0
+CUST-00234,39,Standard,69.19,2633.99,Month-to-month,Credit card,2,3,14,1,1.9,Yes,East,1
+CUST-00235,22,Premium,87.01,1891.9,Two year,Mailed check,0,1,46,1,2.2,No,East,0
+CUST-00236,33,Standard,42.35,1421.41,Month-to-month,Credit card,2,1,31,1,3.2,Yes,West,1
+CUST-00237,10,Standard,51.27,522.59,Two year,Bank transfer,0,1,34,2,2.6,No,West,1
+CUST-00238,8,Premium,97.93,741.43,Two year,Mailed check,2,0,41,0,2.5,No,West,1
+CUST-00239,22,Basic,31.2,687.91,Month-to-month,Bank transfer,3,2,30,3,3.6,No,East,1
+CUST-00240,1,Premium,89.83,86.89,One year,Credit card,1,1,35,0,2.7,Yes,South,0
+CUST-00241,35,Premium,87.11,3117.93,Two year,Credit card,2,1,50,2,2.3,No,West,1
+CUST-00242,1,Standard,58.74,58.5,Month-to-month,Mailed check,2,0,31,0,2.2,No,South,1
+CUST-00243,15,Basic,33.88,520.56,Two year,Bank transfer,1,1,14,1,3.1,No,South,0
+CUST-00244,24,Basic,37.03,904.94,One year,Bank transfer,2,0,22,0,3.9,Yes,East,0
+CUST-00245,20,Standard,51.23,985.57,One year,Bank transfer,0,3,43,1,2.5,Yes,North,0
+CUST-00246,25,Standard,55.26,1416.13,One year,Credit card,3,0,34,1,2.4,Yes,North,0
+CUST-00247,11,Premium,80.67,913.25,One year,Bank transfer,1,2,51,2,3.8,Yes,West,0
+CUST-00248,24,Standard,56.14,1296.09,One year,Bank transfer,1,0,30,0,3.5,No,South,0
+CUST-00249,18,Basic,33,571.44,Two year,Credit card,0,2,25,1,3.7,No,North,0
+CUST-00250,39,Standard,64.04,2563.9,Month-to-month,Mailed check,0,0,32,2,4.2,No,South,1
+CUST-00251,26,Standard,41.84,1123.82,Month-to-month,Credit card,0,2,17,1,2.5,Yes,South,1
+CUST-00252,46,Standard,69.62,3166.87,Month-to-month,Mailed check,2,1,40,2,2.6,Yes,East,0
+CUST-00253,17,Basic,28.54,461.41,Two year,Bank transfer,0,1,22,0,3.8,Yes,South,0
+CUST-00254,3,Premium,98.9,306.28,Month-to-month,Mailed check,0,0,32,0,4.2,No,South,1
+CUST-00255,11,Basic,32.23,342.11,Month-to-month,Mailed check,4,1,36,3,3.4,No,South,1
+CUST-00256,1,Premium,89.4,89.11,Two year,Mailed check,3,1,37,1,3.2,No,East,0
+CUST-00257,7,Standard,63.88,449.03,One year,Bank transfer,1,1,32,1,3.2,Yes,East,1
+CUST-00258,17,Premium,76.48,1270.89,One year,Bank transfer,4,0,37,0,2,Yes,West,0
+CUST-00259,1,Standard,48.7,46.97,One year,Mailed check,0,0,18,0,3.1,Yes,North,0
+CUST-00260,16,Premium,85.38,1341.62,One year,Mailed check,0,0,37,0,3.9,Yes,East,0
+CUST-00261,10,Standard,65.49,616.83,One year,Bank transfer,0,1,42,1,4.5,Yes,West,0
+CUST-00262,1,Standard,52.75,52.51,Month-to-month,Bank transfer,2,1,37,4,3,Yes,East,1
+CUST-00263,10,Basic,35.49,360.31,Two year,Credit card,0,1,8,2,3.2,No,North,0
+CUST-00264,35,Standard,53.04,1749.06,Month-to-month,Mailed check,2,2,26,2,1.4,Yes,East,1
+CUST-00265,27,Standard,61.98,1590.54,Two year,Credit card,2,2,19,0,2.2,No,South,0
+CUST-00266,36,Basic,30.74,1087.84,One year,Mailed check,0,1,20,0,4.1,No,South,0
+CUST-00267,44,Basic,34.74,1446.83,One year,Mailed check,1,2,28,1,2.4,No,South,0
+CUST-00268,23,Standard,54.17,1292.87,Two year,Electronic check,0,0,31,0,3.9,Yes,East,0
+CUST-00269,37,Premium,87.34,3303.87,Month-to-month,Bank transfer,5,1,70,3,3,Yes,North,0
+CUST-00270,21,Standard,55.51,1164.13,One year,Electronic check,0,1,23,0,3.3,No,East,0
+CUST-00271,42,Basic,23.5,947.93,Two year,Bank transfer,3,1,28,2,2.9,Yes,West,0
+CUST-00272,24,Basic,43.68,1042.01,Two year,Electronic check,0,3,14,0,3.6,Yes,South,0
+CUST-00273,6,Premium,105.26,653.82,Two year,Bank transfer,0,3,40,1,2.7,Yes,East,1
+CUST-00274,14,Basic,33.65,464.28,Month-to-month,Bank transfer,1,0,9,0,3.7,No,East,0
+CUST-00275,34,Premium,86.03,2830.91,Month-to-month,Mailed check,4,2,45,2,1.7,Yes,West,1
+CUST-00276,7,Standard,66.74,439.89,Month-to-month,Electronic check,0,2,22,2,4.1,No,East,0
+CUST-00277,21,Standard,64.47,1374.85,One year,Electronic check,3,2,29,1,3,No,North,0
+CUST-00278,13,Basic,35.24,472.09,Month-to-month,Mailed check,1,1,15,3,2.7,Yes,North,1
+CUST-00279,22,Premium,79.47,1645.37,Month-to-month,Electronic check,1,2,42,0,2.7,No,East,1
+CUST-00280,5,Basic,45.48,232.62,Month-to-month,Mailed check,3,0,29,1,2.8,Yes,South,1
+CUST-00281,36,Standard,42.61,1467.55,Two year,Bank transfer,4,2,29,0,1.7,Yes,West,1
+CUST-00282,9,Standard,47.28,425.4,One year,Mailed check,0,0,33,2,3.6,No,South,0
+CUST-00283,53,Premium,93.72,5045.68,Month-to-month,Mailed check,2,3,36,0,2.7,No,North,0
+CUST-00284,29,Standard,69.45,2047.75,One year,Electronic check,0,0,39,0,3.6,Yes,South,0
+CUST-00285,7,Basic,27.83,192.5,Two year,Mailed check,1,1,28,0,3.2,No,West,1
+CUST-00286,21,Basic,38.14,812.81,One year,Mailed check,2,1,12,2,3.1,No,North,0
+CUST-00287,16,Premium,87.57,1400.68,One year,Credit card,0,0,49,1,2.9,No,West,0
+CUST-00288,23,Standard,63.08,1387.74,Month-to-month,Credit card,2,1,31,2,3.1,No,South,1
+CUST-00289,5,Basic,29.01,147.02,Month-to-month,Bank transfer,5,3,9,0,2.9,Yes,West,1
+CUST-00290,23,Basic,43.62,961.22,Two year,Credit card,1,0,19,0,3.1,No,West,0
+CUST-00291,27,Basic,32.01,839.72,Month-to-month,Mailed check,2,3,22,2,3,No,North,0
+CUST-00292,11,Standard,51.19,532.18,Two year,Electronic check,1,0,44,0,3.6,Yes,North,0
+CUST-00293,38,Premium,89.51,3286.13,Two year,Credit card,1,0,52,0,4.6,Yes,East,0
+CUST-00294,16,Basic,33.22,542.92,Two year,Credit card,3,1,39,3,2.9,Yes,East,0
+CUST-00295,13,Standard,75.74,963.09,One year,Credit card,1,3,28,0,2.7,No,West,1
+CUST-00296,1,Premium,89.73,88.96,One year,Bank transfer,0,2,47,1,3.2,No,North,1
+CUST-00297,16,Premium,92.67,1406.38,Two year,Electronic check,3,0,35,1,2.6,No,South,0
+CUST-00298,26,Basic,38.09,1027.67,Two year,Bank transfer,0,2,33,1,2.5,No,South,0
+CUST-00299,10,Premium,99.82,959.2,One year,Bank transfer,1,0,47,0,3.1,Yes,South,0
+CUST-00300,1,Basic,36.36,37.13,One year,Bank transfer,2,3,15,0,2.9,Yes,East,0
+CUST-00301,17,Premium,73.61,1195.67,Month-to-month,Credit card,2,1,43,3,2.2,Yes,South,1
+CUST-00302,23,Standard,61.24,1350.13,Month-to-month,Bank transfer,4,1,27,2,2.3,Yes,North,1
+CUST-00303,1,Premium,78.84,76.65,Two year,Credit card,4,1,51,0,2.9,No,West,1
+CUST-00304,24,Premium,105.56,2628.91,Month-to-month,Credit card,4,0,52,0,3,Yes,South,0
+CUST-00305,29,Basic,33.58,971.13,Month-to-month,Bank transfer,3,1,20,2,3.3,Yes,West,1
+CUST-00306,4,Standard,51.71,200.25,Month-to-month,Electronic check,4,1,23,0,2,Yes,North,0
+CUST-00307,16,Basic,34.51,530.87,Two year,Mailed check,3,3,33,0,3,No,East,0
+CUST-00308,26,Standard,71.91,1936.96,One year,Bank transfer,2,0,35,0,3.5,Yes,South,0
+CUST-00309,31,Standard,54.38,1635.36,One year,Credit card,2,1,27,0,2.9,Yes,East,0
+CUST-00310,13,Standard,45.65,561.62,One year,Electronic check,0,2,36,1,3.3,Yes,West,0
+CUST-00311,8,Premium,82.79,623.6,Two year,Bank transfer,0,0,50,1,1.9,No,West,1
+CUST-00312,10,Standard,57.48,571.24,Month-to-month,Bank transfer,1,2,42,0,2.5,Yes,South,0
+CUST-00313,17,Basic,29.53,474.13,Month-to-month,Bank transfer,3,0,25,3,3.2,Yes,East,1
+CUST-00314,16,Premium,70.91,1158.26,One year,Mailed check,2,0,41,0,3.4,No,West,0
+CUST-00315,9,Premium,90.04,782.86,Two year,Bank transfer,1,0,31,1,3.4,Yes,East,0
+CUST-00316,27,Standard,52.55,1410.27,Two year,Credit card,0,1,25,2,2.8,No,East,0
+CUST-00317,23,Basic,33.31,739.55,Month-to-month,Bank transfer,3,0,28,3,3.2,Yes,West,0
+CUST-00318,1,Premium,80.34,78.1,One year,Electronic check,0,1,63,0,3.6,No,South,0
+CUST-00319,1,Basic,44.85,43.8,Two year,Credit card,2,1,19,0,3.4,Yes,West,0
+CUST-00320,16,Standard,70.72,1078.49,One year,Credit card,0,1,17,0,4.5,Yes,East,0
+CUST-00321,40,Standard,53.12,2094.3,Two year,Electronic check,1,3,43,0,3.1,No,East,0
+CUST-00322,19,Premium,92.09,1714.23,Two year,Credit card,2,1,36,0,3.7,No,South,1
+CUST-00323,27,Standard,54.46,1474.59,Month-to-month,Mailed check,2,1,34,0,2.8,Yes,South,0
+CUST-00324,31,Premium,91.6,2722.92,Two year,Credit card,0,1,26,0,2.8,Yes,West,0
+CUST-00325,12,Premium,90.66,1064.12,Month-to-month,Electronic check,4,1,36,2,2.8,No,South,1
+CUST-00326,26,Basic,28.43,758.31,Month-to-month,Electronic check,5,0,25,0,3.1,Yes,North,1
+CUST-00327,41,Standard,61.7,2584.34,Month-to-month,Electronic check,2,1,37,1,3.2,Yes,South,0
+CUST-00328,11,Premium,69.27,717.52,Month-to-month,Electronic check,1,1,52,1,2.5,Yes,West,1
+CUST-00329,29,Premium,85.23,2459.92,Two year,Credit card,0,1,41,1,4.2,Yes,West,0
+CUST-00330,30,Premium,97.01,2888.54,One year,Mailed check,4,1,45,0,3.3,No,South,0
+CUST-00331,19,Premium,82.58,1585.97,One year,Electronic check,3,0,52,1,2.7,No,East,0
+CUST-00332,13,Basic,36.01,483.57,One year,Bank transfer,1,2,22,0,2.9,No,South,0
+CUST-00333,1,Premium,84.68,82.43,Month-to-month,Electronic check,1,1,58,1,3.3,No,North,1
+CUST-00334,2,Standard,49.63,101.09,Month-to-month,Mailed check,2,0,45,1,3.8,No,West,1
+CUST-00335,44,Premium,80.52,3375.8,Two year,Electronic check,0,2,47,1,3,No,East,1
+CUST-00336,25,Standard,57.5,1418.7,Two year,Credit card,2,1,39,1,2.7,No,South,1
+CUST-00337,37,Premium,78.23,2897.61,One year,Credit card,1,0,56,0,3.6,Yes,South,0
+CUST-00338,10,Standard,54.58,548.13,Month-to-month,Credit card,3,0,22,2,2.3,No,West,1
+CUST-00339,25,Premium,83.92,2039.87,Month-to-month,Bank transfer,4,2,50,0,2.9,Yes,East,1
+CUST-00340,6,Standard,55.44,321.33,One year,Mailed check,0,4,22,0,1.8,Yes,North,1
+CUST-00341,17,Standard,55.59,941.68,Two year,Bank transfer,2,1,28,0,3.2,No,South,1
+CUST-00342,22,Basic,36.78,792.61,Month-to-month,Bank transfer,1,0,13,0,3.2,No,West,1
+CUST-00343,27,Standard,66.4,1819.66,Two year,Bank transfer,1,1,33,2,2,No,North,0
+CUST-00344,24,Standard,51.46,1257.47,Month-to-month,Bank transfer,2,2,43,0,3.1,Yes,North,0
+CUST-00345,40,Standard,53.16,2051.93,One year,Credit card,2,3,28,4,2.2,No,East,1
+CUST-00346,13,Standard,60.07,758.5,Two year,Mailed check,2,1,34,0,3,No,East,0
+CUST-00347,1,Standard,54.63,54.71,Two year,Bank transfer,1,2,38,2,2.3,No,West,0
+CUST-00348,16,Basic,46.9,747.71,Month-to-month,Mailed check,3,1,8,1,3.9,No,North,1
+CUST-00349,30,Basic,32.79,1014.97,One year,Credit card,1,3,3,0,1.7,No,South,1
+CUST-00350,26,Standard,54.08,1459.26,Two year,Credit card,1,2,60,2,3.5,Yes,West,0
+CUST-00351,15,Premium,86.32,1310.54,Month-to-month,Electronic check,3,1,55,3,1.6,Yes,North,1
+CUST-00352,25,Premium,83.96,2094.45,Two year,Bank transfer,0,0,43,3,3.9,No,North,0
+CUST-00353,11,Premium,75.06,800.7,Two year,Electronic check,0,2,48,2,3.9,No,North,0
+CUST-00354,11,Basic,29.45,309.96,One year,Mailed check,0,0,24,1,2.8,No,East,0
+CUST-00355,16,Basic,33.42,528.63,Two year,Credit card,0,0,32,1,3.6,Yes,West,0
+CUST-00356,21,Standard,49.87,1071.6,Month-to-month,Mailed check,3,0,44,2,3.2,No,North,1
+CUST-00357,23,Standard,59.73,1330.07,Two year,Credit card,0,3,50,0,2,No,West,0
+CUST-00358,17,Basic,34.17,570.49,Month-to-month,Bank transfer,3,2,21,1,3.3,Yes,North,1
+CUST-00359,1,Basic,31.04,29.67,Two year,Bank transfer,0,1,34,1,3,Yes,West,0
+CUST-00360,19,Standard,65.25,1220.23,Two year,Bank transfer,2,2,24,2,2.5,Yes,West,1
+CUST-00361,5,Premium,94.05,476.07,Two year,Mailed check,1,0,44,1,3.3,Yes,South,1
+CUST-00362,6,Standard,63.41,383.38,Two year,Mailed check,0,2,25,1,2.5,No,West,0
+CUST-00363,34,Premium,72.42,2467.13,Two year,Credit card,0,1,50,1,3.5,Yes,South,0
+CUST-00364,19,Basic,42.48,814.73,One year,Mailed check,1,1,24,0,3.4,Yes,South,0
+CUST-00365,46,Premium,87.38,3898.57,Month-to-month,Mailed check,4,0,45,3,3.9,Yes,North,1
+CUST-00366,27,Standard,52.73,1428.82,Two year,Bank transfer,0,1,31,0,3,Yes,South,0
+CUST-00367,17,Basic,33.58,553.39,Month-to-month,Bank transfer,3,4,41,1,2.1,No,West,1
+CUST-00368,1,Standard,47.68,48.9,One year,Credit card,2,2,35,1,2.1,Yes,East,1
+CUST-00369,17,Basic,33.77,575.96,One year,Electronic check,0,1,24,1,2.9,No,East,0
+CUST-00370,24,Basic,39.31,955.03,Month-to-month,Bank transfer,4,2,10,3,3,No,South,1
+CUST-00371,1,Premium,93.78,88.54,Two year,Bank transfer,0,1,32,1,3.1,No,West,0
+CUST-00372,20,Standard,48.53,986.63,Two year,Mailed check,0,2,18,0,3.6,No,South,0
+CUST-00373,1,Basic,40.65,38.8,One year,Bank transfer,0,2,23,1,3.2,No,North,0
+CUST-00374,13,Standard,58.7,778.12,Month-to-month,Electronic check,3,3,24,0,2.7,No,East,1
+CUST-00375,21,Premium,81.91,1629.88,Month-to-month,Bank transfer,0,4,23,1,3,No,South,1
+CUST-00376,11,Premium,91.94,996.18,Month-to-month,Credit card,0,0,34,0,2.9,No,West,1
+CUST-00377,24,Basic,40.51,945.06,One year,Electronic check,2,2,19,1,2.6,Yes,West,0
+CUST-00378,34,Standard,56.57,1808.06,Month-to-month,Credit card,2,0,44,0,4.2,Yes,West,1
+CUST-00379,2,Standard,56.16,108.49,Month-to-month,Mailed check,2,1,40,2,3,No,South,1
+CUST-00380,1,Basic,41.24,40.02,One year,Mailed check,0,2,7,2,2.5,Yes,West,1
+CUST-00381,6,Standard,62.49,365.91,Month-to-month,Electronic check,0,0,34,1,3.2,Yes,West,0
+CUST-00382,21,Standard,56.48,1160.83,One year,Electronic check,3,1,29,2,4.2,Yes,West,0
+CUST-00383,19,Basic,27.02,499.94,One year,Bank transfer,1,3,15,1,2.5,No,East,0
+CUST-00384,23,Premium,75.2,1724.68,Two year,Credit card,1,1,40,2,2.8,Yes,East,1
+CUST-00385,42,Standard,63.64,2618.14,Two year,Mailed check,4,1,27,1,2.6,No,East,0
+CUST-00386,18,Basic,39.79,688.78,One year,Electronic check,3,4,8,1,2.1,No,East,1
+CUST-00387,18,Basic,27.77,517.82,Two year,Bank transfer,2,1,13,0,3.7,Yes,East,1
+CUST-00388,13,Basic,35.56,442.91,Month-to-month,Mailed check,0,1,24,3,2.9,Yes,West,1
+CUST-00389,16,Standard,49.23,800,One year,Credit card,3,1,12,0,2.1,No,West,1
+CUST-00390,6,Premium,82.59,468.86,One year,Electronic check,2,1,30,0,2.2,Yes,West,1
+CUST-00391,31,Premium,93.16,2867.8,Month-to-month,Bank transfer,0,0,28,1,3.7,No,South,0
+CUST-00392,1,Premium,78.76,75.28,Month-to-month,Mailed check,0,1,51,2,3.3,Yes,West,0
+CUST-00393,1,Basic,32.21,33.36,One year,Bank transfer,0,0,16,0,4.3,No,North,0
+CUST-00394,29,Premium,74.94,2067,Month-to-month,Mailed check,5,2,45,3,2.4,No,North,0
+CUST-00395,1,Basic,37.09,35.86,Two year,Mailed check,0,3,4,0,3.1,No,North,0
+CUST-00396,13,Premium,79.02,982.88,One year,Electronic check,0,2,35,3,2.2,Yes,West,0
+CUST-00397,6,Standard,59.39,348.47,Month-to-month,Bank transfer,3,1,27,3,2.4,No,East,1
+CUST-00398,13,Standard,61.83,781.26,Two year,Bank transfer,1,1,23,0,3,Yes,West,0
+CUST-00399,33,Standard,72.32,2244.24,Month-to-month,Bank transfer,2,1,47,1,1.6,Yes,West,1
+CUST-00400,5,Basic,38.82,200.49,One year,Bank transfer,1,1,17,1,2.1,Yes,East,0
+CUST-00401,26,Premium,70.1,1866.97,One year,Credit card,0,2,49,1,3.1,Yes,South,0
+CUST-00402,40,Standard,64.87,2512.76,One year,Mailed check,0,2,41,1,3.3,Yes,East,1
+CUST-00403,16,Premium,91.89,1466.09,Two year,Electronic check,2,1,41,3,3.6,Yes,East,1
+CUST-00404,31,Standard,55.08,1695.02,One year,Mailed check,2,0,21,2,3.4,No,North,0
+CUST-00405,17,Standard,59.34,1001.57,Two year,Credit card,1,2,20,1,2.7,No,East,0
+CUST-00406,2,Premium,66.39,137.99,Two year,Bank transfer,3,0,24,1,2.9,Yes,North,1
+CUST-00407,22,Standard,65.02,1468.9,One year,Mailed check,3,1,27,0,2.6,Yes,South,0
+CUST-00408,19,Standard,60.53,1183.02,One year,Bank transfer,0,2,17,3,2.5,No,East,0
+CUST-00409,57,Standard,57.12,3364.89,Two year,Electronic check,4,2,32,0,2.7,Yes,South,0
+CUST-00410,11,Premium,86.55,974.9,Month-to-month,Electronic check,3,0,43,1,3.3,Yes,South,1
+CUST-00411,23,Premium,96.19,2279.17,Month-to-month,Bank transfer,0,3,20,1,3.4,Yes,East,1
+CUST-00412,31,Basic,30.14,964.42,Two year,Electronic check,2,3,22,1,1.9,No,North,0
+CUST-00413,13,Premium,78.06,1040.28,Month-to-month,Credit card,3,0,51,1,3.9,Yes,South,0
+CUST-00414,19,Premium,72.6,1371.34,Month-to-month,Bank transfer,4,0,44,2,3.3,Yes,North,1
+CUST-00415,11,Premium,113.63,1226.16,Two year,Credit card,0,0,49,2,2.7,Yes,North,0
+CUST-00416,25,Premium,75.94,1809.22,One year,Mailed check,1,3,70,0,2.1,No,South,0
+CUST-00417,4,Standard,53.22,211.28,Month-to-month,Bank transfer,2,3,41,0,2.6,No,West,1
+CUST-00418,18,Standard,65.65,1210.52,One year,Credit card,0,3,26,1,1.4,Yes,South,1
+CUST-00419,15,Standard,62.65,966.37,Month-to-month,Electronic check,3,2,14,1,2.1,Yes,West,0
+CUST-00420,32,Premium,102.34,3287.49,One year,Bank transfer,1,2,43,2,3.7,Yes,East,1
+CUST-00421,15,Basic,29.17,432.7,Month-to-month,Credit card,2,0,23,3,2,Yes,North,0
+CUST-00422,31,Standard,61.79,1833.01,Month-to-month,Mailed check,0,0,36,1,3.4,No,South,1
+CUST-00423,23,Premium,89.45,1946.86,Month-to-month,Electronic check,6,1,47,3,2.6,Yes,South,1
+CUST-00424,1,Premium,70.65,73.36,One year,Electronic check,3,0,13,2,3.1,No,South,0
+CUST-00425,23,Premium,83.79,1956.31,Month-to-month,Mailed check,4,3,49,0,2.2,Yes,North,1
+CUST-00426,24,Basic,32.63,782.05,One year,Electronic check,4,2,2,0,2.4,Yes,West,0
+CUST-00427,16,Premium,94.57,1459.1,One year,Credit card,1,0,63,0,4.8,Yes,West,0
+CUST-00428,9,Basic,30.68,262.8,Two year,Credit card,2,2,18,1,2.2,No,West,1
+CUST-00429,11,Basic,35.02,373.4,One year,Electronic check,0,2,33,0,2.4,No,South,1
+CUST-00430,7,Premium,86.63,615.15,One year,Electronic check,3,0,33,1,3.1,No,West,1
+CUST-00431,26,Premium,84.98,2288.61,One year,Electronic check,1,0,62,0,3.3,Yes,East,0
+CUST-00432,29,Basic,41.18,1174.4,Month-to-month,Credit card,2,2,17,2,4,Yes,South,1
+CUST-00433,7,Basic,33.61,223.27,Month-to-month,Bank transfer,3,1,18,1,3.6,No,East,1
+CUST-00434,15,Standard,55.61,839.62,One year,Credit card,1,1,24,0,3,Yes,North,1
+CUST-00435,1,Standard,65.68,67.54,Two year,Electronic check,0,1,36,1,2.7,Yes,North,0
+CUST-00436,19,Basic,35.81,694.04,Two year,Electronic check,0,2,26,2,3.2,Yes,West,0
+CUST-00437,11,Premium,65.34,682.61,One year,Credit card,3,2,39,2,3.2,No,West,1
+CUST-00438,22,Basic,40.11,876.74,One year,Credit card,0,2,10,2,3.8,No,South,0
+CUST-00439,10,Standard,60.4,569.1,Month-to-month,Electronic check,4,1,30,2,2.7,Yes,East,1
+CUST-00440,27,Premium,112.53,3125.39,Two year,Credit card,0,2,39,0,2.6,No,South,1
+CUST-00441,22,Basic,37.05,840.55,One year,Mailed check,0,2,38,2,3.7,Yes,North,0
+CUST-00442,10,Basic,33.47,344.03,Month-to-month,Credit card,0,1,24,1,3.1,Yes,West,0
+CUST-00443,2,Basic,31.55,62.57,Two year,Credit card,1,1,13,1,4.6,No,South,0
+CUST-00444,27,Standard,47.56,1244.13,Two year,Electronic check,1,1,28,3,3.6,Yes,West,0
+CUST-00445,15,Basic,29.08,412.58,Month-to-month,Bank transfer,3,2,21,1,3.2,Yes,North,0
+CUST-00446,22,Standard,59.22,1324.21,Month-to-month,Mailed check,1,1,27,0,2.8,No,East,1
+CUST-00447,19,Premium,92.77,1770.56,Two year,Mailed check,4,4,49,1,1.7,No,North,1
+CUST-00448,10,Basic,42.8,411.94,Two year,Mailed check,1,3,10,2,3.9,No,West,1
+CUST-00449,23,Standard,67.55,1476.52,Month-to-month,Credit card,3,1,14,1,3.1,No,East,1
+CUST-00450,23,Standard,49.76,1182.07,One year,Credit card,0,3,29,2,2.5,No,West,1
+CUST-00451,21,Premium,92.67,1996.54,Month-to-month,Bank transfer,0,1,46,0,3.5,Yes,West,0
+CUST-00452,16,Premium,71.67,1170.98,One year,Mailed check,0,0,40,1,3.1,No,East,0
+CUST-00453,39,Premium,69.76,2572.42,Month-to-month,Electronic check,0,0,49,1,3.7,Yes,South,1
+CUST-00454,10,Premium,85.46,885.5,One year,Bank transfer,2,1,35,0,3.8,Yes,East,1
+CUST-00455,7,Basic,41.07,296.33,Two year,Bank transfer,0,4,35,0,3.5,Yes,East,0
+CUST-00456,17,Standard,57.96,944.88,One year,Electronic check,1,0,24,0,3.7,No,South,0
+CUST-00457,27,Standard,47.1,1290.18,Month-to-month,Bank transfer,3,0,25,0,2.5,No,North,1
+CUST-00458,36,Standard,58.66,2183.28,Month-to-month,Bank transfer,0,2,17,0,3.2,Yes,East,0
+CUST-00459,31,Premium,86.41,2624.9,One year,Bank transfer,3,1,54,1,2.7,Yes,East,1
+CUST-00460,4,Standard,61.95,233.25,Two year,Electronic check,1,0,15,0,2.4,No,South,1
+CUST-00461,23,Premium,73.79,1620.99,Two year,Electronic check,0,1,40,0,2.9,No,South,0
+CUST-00462,10,Standard,56.56,539.91,One year,Electronic check,1,0,48,0,3.6,Yes,West,0
+CUST-00463,27,Premium,82.66,2181.35,Two year,Mailed check,2,2,33,0,3,No,North,0
+CUST-00464,27,Standard,72.33,1849.21,Two year,Credit card,1,2,23,0,2.8,Yes,West,0
+CUST-00465,25,Basic,34.64,888.41,One year,Credit card,0,4,19,3,1.8,No,East,1
+CUST-00466,11,Standard,68.41,766.51,Two year,Mailed check,0,2,22,0,2.9,Yes,West,0
+CUST-00467,22,Premium,84.86,1887.35,Two year,Electronic check,2,0,36,0,3,No,North,0
+CUST-00468,16,Premium,81.81,1236.22,One year,Electronic check,3,4,41,1,1.9,No,West,1
+CUST-00469,12,Standard,62.05,708.91,One year,Bank transfer,4,0,43,2,3.2,No,East,0
+CUST-00470,16,Premium,89.47,1461.13,Two year,Bank transfer,2,0,30,0,3.3,No,South,0
+CUST-00471,22,Standard,58.66,1270.31,Month-to-month,Mailed check,0,2,27,0,2.8,No,East,0
+CUST-00472,25,Premium,86.92,2194.67,One year,Credit card,3,2,46,3,3.1,Yes,East,0
+CUST-00473,15,Premium,68.93,993.81,Two year,Credit card,0,0,41,0,4.2,No,East,0
+CUST-00474,18,Basic,29.49,511.81,Two year,Credit card,0,0,16,1,2.7,No,West,1
+CUST-00475,27,Standard,67.5,1774.79,One year,Electronic check,0,1,19,1,3.9,No,South,0
+CUST-00476,31,Premium,102.23,3287.82,Month-to-month,Electronic check,1,3,47,2,2.2,No,South,1
+CUST-00477,17,Basic,26.86,430.88,Month-to-month,Credit card,2,0,6,0,2.9,Yes,South,1
+CUST-00478,17,Basic,35.61,611.72,Two year,Bank transfer,0,2,35,2,3.5,Yes,South,1
+CUST-00479,24,Premium,83.07,1927.49,One year,Mailed check,5,2,53,0,3,No,South,1
+CUST-00480,13,Standard,49.01,648.68,Month-to-month,Electronic check,2,1,38,1,3.5,Yes,West,0
+CUST-00481,10,Standard,59.28,568.39,Two year,Mailed check,2,2,25,0,2.2,Yes,North,1
+CUST-00482,4,Basic,38.01,157.02,One year,Credit card,1,1,18,1,3.3,No,West,1
+CUST-00483,26,Standard,56.05,1406.92,Month-to-month,Mailed check,1,0,39,2,4,Yes,South,1
+CUST-00484,19,Premium,93.86,1767.24,One year,Bank transfer,1,2,34,0,3.2,No,North,0
+CUST-00485,23,Premium,92.04,2184.6,One year,Electronic check,1,1,42,2,1.8,No,East,0
+CUST-00486,22,Standard,55.71,1211.27,Month-to-month,Mailed check,4,3,13,0,2.3,Yes,East,1
+CUST-00487,14,Basic,27.47,370.35,Month-to-month,Credit card,0,2,23,0,2.7,No,North,1
+CUST-00488,16,Standard,60.94,965.63,One year,Bank transfer,1,3,27,2,3.1,No,South,0
+CUST-00489,5,Standard,50.11,253.54,One year,Bank transfer,1,0,25,0,2.6,Yes,South,0
+CUST-00490,9,Premium,97.24,829.83,One year,Credit card,0,1,49,0,3,No,North,1
+CUST-00491,33,Standard,66.47,2249.97,Two year,Bank transfer,2,3,30,2,2.4,Yes,West,1
+CUST-00492,31,Premium,97.57,2851.3,Two year,Credit card,4,0,38,0,2.3,Yes,East,0
+CUST-00493,3,Basic,32.13,94.98,Two year,Credit card,1,1,12,0,4.3,Yes,South,0
+CUST-00494,39,Basic,28.33,1048.45,Month-to-month,Bank transfer,0,1,32,1,2.3,Yes,East,0
+CUST-00495,12,Standard,52.91,659.23,Month-to-month,Credit card,1,1,36,2,1.7,Yes,South,1
+CUST-00496,20,Standard,36.9,729.55,Two year,Mailed check,0,0,21,0,4.1,No,South,0
+CUST-00497,41,Premium,87.33,3465.08,Month-to-month,Electronic check,3,0,47,0,2.8,Yes,South,0
+CUST-00498,26,Basic,33.37,827.84,One year,Electronic check,0,1,22,1,2.6,No,West,1
+CUST-00499,4,Basic,26.95,107.26,Two year,Bank transfer,4,2,30,0,3,Yes,West,1
+CUST-00500,29,Standard,48.57,1453.47,Month-to-month,Electronic check,2,0,21,1,2.1,Yes,West,1
+CUST-00501,13,Premium,94.62,1249.64,Two year,Bank transfer,0,2,48,1,3.8,No,South,1
+CUST-00502,33,Standard,52.86,1642.4,One year,Credit card,1,2,32,1,2.4,No,East,1
+CUST-00503,27,Premium,92.91,2372.06,Month-to-month,Mailed check,3,1,38,1,3.2,No,West,1
+CUST-00504,7,Basic,37.31,246.23,Two year,Credit card,3,3,34,0,3.4,No,South,1
+CUST-00505,26,Basic,38.71,1040.08,One year,Electronic check,4,1,9,1,3.2,No,East,0
+CUST-00506,9,Basic,26.35,226.06,Two year,Mailed check,1,3,22,0,3.7,Yes,South,0
+CUST-00507,4,Basic,37.85,155.53,Two year,Bank transfer,2,1,24,0,3.6,Yes,East,0
+CUST-00508,37,Premium,84.66,3024.14,One year,Bank transfer,1,2,47,1,3,No,North,0
+CUST-00509,25,Premium,86.66,2086.48,One year,Credit card,4,1,38,0,1.8,No,South,1
+CUST-00510,11,Basic,35.04,375.53,Two year,Electronic check,2,1,15,0,2.7,Yes,North,0
+CUST-00511,21,Premium,94.89,1876.85,Month-to-month,Bank transfer,2,2,31,0,2.6,No,South,1
+CUST-00512,12,Standard,54.18,655.21,One year,Credit card,1,4,24,0,2.9,Yes,North,0
+CUST-00513,10,Premium,76.75,758.06,Month-to-month,Electronic check,2,0,39,1,2.9,Yes,South,0
+CUST-00514,17,Premium,86.53,1511.73,One year,Credit card,3,0,21,1,3.3,Yes,North,0
+CUST-00515,20,Basic,26.39,506.72,Month-to-month,Credit card,5,4,9,2,1.7,No,East,1
+CUST-00516,33,Standard,45.21,1513.7,Month-to-month,Bank transfer,2,1,36,1,2.6,Yes,North,1
+CUST-00517,24,Premium,87.15,2057.9,One year,Bank transfer,3,3,45,1,2.3,No,North,1
+CUST-00518,32,Premium,89,2849.89,Two year,Electronic check,2,1,31,0,3.2,Yes,East,0
+CUST-00519,15,Basic,39.8,573.78,One year,Bank transfer,0,3,30,0,2.7,No,West,0
+CUST-00520,5,Premium,80.48,382.43,One year,Mailed check,0,2,35,0,3.1,No,North,1
+CUST-00521,18,Standard,55.35,995.67,Month-to-month,Electronic check,0,0,44,2,3.3,Yes,North,0
+CUST-00522,1,Premium,90.27,84.93,Two year,Electronic check,0,1,41,3,3.6,Yes,North,0
+CUST-00523,8,Premium,89.46,673.04,Month-to-month,Mailed check,3,4,33,0,2.2,No,East,1
+CUST-00524,18,Standard,71.1,1207.57,Two year,Electronic check,3,1,29,1,2.5,Yes,East,0
+CUST-00525,8,Premium,95.4,724.48,Month-to-month,Bank transfer,0,0,39,0,3.4,Yes,East,1
+CUST-00526,22,Basic,31.47,683.15,Month-to-month,Electronic check,1,5,4,1,2,Yes,West,1
+CUST-00527,21,Basic,34.46,682.62,One year,Bank transfer,3,1,33,1,3,Yes,South,0
+CUST-00528,19,Premium,85.39,1571.83,Two year,Bank transfer,1,2,43,1,3.6,Yes,West,0
+CUST-00529,12,Premium,89.64,1023.46,Month-to-month,Credit card,2,1,41,2,2.5,No,West,1
+CUST-00530,30,Basic,28,857.34,One year,Bank transfer,2,1,9,0,2.9,Yes,North,1
+CUST-00531,9,Standard,58.69,531.93,Month-to-month,Mailed check,2,1,28,1,2.2,No,East,1
+CUST-00532,9,Standard,68.41,596.57,Two year,Credit card,0,3,37,2,2.8,No,South,1
+CUST-00533,36,Premium,88.62,3019.44,Two year,Mailed check,2,0,56,2,3.3,Yes,East,0
+CUST-00534,22,Basic,36.74,775.82,Month-to-month,Electronic check,2,0,32,1,3.2,No,South,0
+CUST-00535,1,Standard,52.31,53.35,One year,Credit card,2,2,37,2,2.8,No,East,1
+CUST-00536,15,Premium,73.79,1043.43,Month-to-month,Bank transfer,0,2,40,0,3.6,Yes,South,1
+CUST-00537,1,Standard,55.71,54.15,Month-to-month,Mailed check,0,3,24,2,3.1,Yes,South,0
+CUST-00538,18,Premium,85.99,1583.74,Month-to-month,Mailed check,3,3,41,0,2.3,Yes,South,1
+CUST-00539,26,Basic,38.4,1027.2,Two year,Bank transfer,0,0,28,3,3.5,Yes,South,0
+CUST-00540,33,Basic,29.21,916.28,Two year,Bank transfer,0,0,30,1,3.5,No,West,0
+CUST-00541,17,Standard,51.34,862.13,One year,Electronic check,5,2,42,1,3.5,Yes,East,0
+CUST-00542,17,Premium,68.21,1204.19,One year,Bank transfer,0,0,45,3,1.7,No,West,0
+CUST-00543,9,Basic,29.4,252.76,Two year,Credit card,0,0,15,0,4.3,No,East,0
+CUST-00544,33,Basic,38.03,1273.18,Two year,Bank transfer,1,1,10,0,2,No,North,0
+CUST-00545,1,Basic,34.16,33.16,One year,Electronic check,0,2,40,1,2.6,No,East,0
+CUST-00546,6,Standard,56.38,331.15,One year,Mailed check,2,0,33,1,3.2,No,North,0
+CUST-00547,33,Standard,53.49,1764.54,Month-to-month,Bank transfer,1,1,29,0,3,Yes,West,1
+CUST-00548,6,Basic,35.9,218.33,Two year,Electronic check,1,2,12,0,2.5,No,North,0
+CUST-00549,32,Basic,26.25,861.79,Month-to-month,Bank transfer,5,3,12,3,2.7,No,East,1
+CUST-00550,1,Basic,32.69,30.84,One year,Credit card,1,3,39,0,1.7,No,East,1
+CUST-00551,39,Premium,96.31,3548.69,Two year,Credit card,1,0,48,0,3.5,Yes,East,0
+CUST-00552,1,Basic,35.62,35.7,One year,Credit card,0,1,21,1,3.7,No,North,0
+CUST-00553,6,Basic,26.23,154.7,Two year,Electronic check,0,1,26,0,2.5,Yes,North,0
+CUST-00554,21,Standard,66.86,1430.7,Month-to-month,Credit card,5,2,17,3,2.5,Yes,East,1
+CUST-00555,23,Basic,31.05,706.39,One year,Bank transfer,0,3,24,0,4.4,No,North,0
+CUST-00556,24,Basic,23.48,564.56,Two year,Credit card,2,4,18,0,1.9,Yes,South,0
+CUST-00557,5,Basic,33.97,165.59,One year,Electronic check,0,2,10,0,3.1,No,South,1
+CUST-00558,25,Standard,55.7,1378.66,Two year,Bank transfer,1,1,24,0,3.6,No,West,0
+CUST-00559,6,Basic,42.12,244.81,Month-to-month,Electronic check,3,0,21,0,1.5,No,West,1
+CUST-00560,24,Premium,83.08,1881.24,Two year,Mailed check,0,1,47,2,2.8,No,East,0
+CUST-00561,18,Premium,95.85,1756.1,Month-to-month,Bank transfer,2,2,31,1,2.9,Yes,East,1
+CUST-00562,17,Premium,80.85,1351.52,One year,Bank transfer,2,1,46,1,3.2,Yes,North,1
+CUST-00563,3,Premium,80.31,228.92,One year,Bank transfer,0,1,49,1,4.3,Yes,North,0
+CUST-00564,23,Standard,57.3,1268.19,One year,Credit card,1,0,31,0,3.6,Yes,West,0
+CUST-00565,7,Premium,89.63,651.14,Two year,Mailed check,0,1,46,1,2.3,Yes,North,0
+CUST-00566,31,Basic,37.9,1130.42,Two year,Bank transfer,0,1,13,1,2.9,No,North,0
+CUST-00567,6,Premium,82.38,495.59,One year,Credit card,0,2,37,2,3.8,Yes,North,0
+CUST-00568,1,Premium,91.41,88.71,Month-to-month,Electronic check,2,0,41,1,3,No,West,1
+CUST-00569,33,Basic,37.43,1253.75,Two year,Credit card,2,2,16,1,2.9,Yes,South,0
+CUST-00570,7,Standard,66.78,472.13,Month-to-month,Electronic check,0,0,33,1,3,No,South,1
+CUST-00571,24,Basic,36.08,850.36,One year,Electronic check,1,2,29,1,1.5,Yes,South,1
+CUST-00572,29,Basic,31.89,888.68,One year,Electronic check,0,3,20,2,3.4,No,South,1
+CUST-00573,11,Standard,70.5,729.4,Month-to-month,Mailed check,2,1,34,0,2.4,No,East,1
+CUST-00574,23,Standard,52.14,1159.1,One year,Mailed check,0,0,33,0,2.5,No,South,0
+CUST-00575,21,Standard,53.83,1112.43,One year,Electronic check,0,2,29,2,2,Yes,North,0
+CUST-00576,23,Standard,52.48,1227.24,Month-to-month,Mailed check,2,1,26,0,3.3,Yes,South,0
+CUST-00577,12,Premium,80.9,976.73,Month-to-month,Bank transfer,5,0,53,3,3,Yes,West,1
+CUST-00578,42,Basic,38.87,1641.79,One year,Electronic check,3,1,24,1,1.7,Yes,South,0
+CUST-00579,39,Basic,27.21,1008.7,One year,Bank transfer,3,0,32,2,2.8,No,West,0
+CUST-00580,16,Standard,56.6,932.69,Month-to-month,Mailed check,2,1,37,1,3.3,Yes,South,0
+CUST-00581,22,Standard,52.55,1123.56,Two year,Credit card,2,1,44,3,2.3,No,West,0
+CUST-00582,23,Basic,29.16,650.21,One year,Credit card,2,2,22,1,3.3,Yes,North,0
+CUST-00583,20,Basic,31.48,651.82,Month-to-month,Credit card,2,1,26,0,2.8,No,West,0
+CUST-00584,1,Basic,26.81,25.59,Month-to-month,Bank transfer,4,1,16,0,3.3,No,West,1
+CUST-00585,1,Basic,32.58,32.02,Two year,Credit card,0,2,26,3,2.5,No,West,0
+CUST-00586,28,Premium,74.67,2085.11,One year,Bank transfer,1,1,44,1,3.3,No,West,1
+CUST-00587,28,Standard,60.01,1619.22,One year,Bank transfer,2,0,28,4,2.6,Yes,West,0
+CUST-00588,40,Standard,52.87,2000.1,One year,Credit card,1,0,20,2,2.7,Yes,South,0
+CUST-00589,3,Basic,30.73,94.92,Two year,Credit card,0,4,47,1,2.6,Yes,West,0
+CUST-00590,42,Premium,77.28,3290.59,One year,Mailed check,4,0,45,1,2.5,No,South,0
+CUST-00591,12,Premium,83.58,945.26,Two year,Credit card,2,1,40,2,3.4,Yes,South,1
+CUST-00592,22,Premium,80.02,1696.41,Two year,Electronic check,4,1,30,1,2.8,Yes,North,0
+CUST-00593,7,Standard,59.94,407.79,Month-to-month,Electronic check,4,0,16,1,2,Yes,North,1
+CUST-00594,16,Basic,25.58,395.05,One year,Electronic check,0,3,27,0,3.4,Yes,North,0
+CUST-00595,20,Standard,56.2,1128.42,Month-to-month,Electronic check,1,0,18,3,2,Yes,North,1
+CUST-00596,26,Standard,67.08,1812.08,Month-to-month,Bank transfer,3,1,35,3,3.4,No,West,1
+CUST-00597,4,Basic,34.78,135.41,Two year,Mailed check,0,1,18,1,3,Yes,East,1
+CUST-00598,3,Basic,43.12,131.66,Month-to-month,Bank transfer,3,2,19,0,1.5,No,West,1
+CUST-00599,20,Premium,96.62,1914.94,Two year,Mailed check,0,1,39,0,4.1,No,East,0
+CUST-00600,19,Basic,35.26,691.65,Month-to-month,Mailed check,2,2,22,2,2.7,Yes,West,1
+CUST-00601,22,Basic,36.51,815.1,Month-to-month,Electronic check,3,2,23,0,1.3,Yes,West,1
+CUST-00602,38,Basic,38.32,1394.12,One year,Bank transfer,1,1,29,1,2.5,No,South,1
+CUST-00603,18,Basic,37.31,682.9,Two year,Electronic check,0,0,24,2,2.2,Yes,South,0
+CUST-00604,7,Premium,100.5,728.07,Month-to-month,Electronic check,2,1,39,1,3.5,No,West,0
+CUST-00605,22,Premium,86.48,1870.44,One year,Mailed check,3,2,48,1,3.3,No,North,0
+CUST-00606,27,Premium,104.77,2700.89,Month-to-month,Mailed check,2,1,52,0,2.6,Yes,North,0
+CUST-00607,10,Premium,93.34,893.26,Two year,Bank transfer,0,1,39,2,2.6,No,East,1
+CUST-00608,15,Standard,56.42,836.35,One year,Electronic check,0,0,35,1,4,No,East,0
+CUST-00609,29,Standard,43.54,1206.51,Two year,Bank transfer,1,0,34,0,3.4,Yes,West,0
+CUST-00610,9,Basic,25.65,227.35,One year,Electronic check,1,1,16,0,2.8,No,South,0
+CUST-00611,23,Premium,85.48,1878.88,One year,Electronic check,3,0,40,0,3.3,Yes,West,0
+CUST-00612,13,Standard,54.91,732.21,One year,Bank transfer,5,1,30,2,2.1,No,North,1
+CUST-00613,14,Premium,78.36,1123.85,Two year,Credit card,2,1,67,0,2.7,No,North,0
+CUST-00614,47,Basic,31.64,1508.79,Month-to-month,Bank transfer,6,2,26,2,2.2,Yes,West,1
+CUST-00615,2,Basic,39.52,75.52,Month-to-month,Mailed check,2,3,26,2,2.5,Yes,East,1
+CUST-00616,16,Standard,56.44,867.6,Month-to-month,Bank transfer,1,1,22,0,2.9,No,West,0
+CUST-00617,10,Premium,95.21,983.93,One year,Electronic check,2,1,38,0,2.5,Yes,South,0
+CUST-00618,2,Basic,38.27,76.43,One year,Bank transfer,2,4,24,2,3.1,Yes,South,1
+CUST-00619,25,Standard,62.47,1534.13,Two year,Electronic check,3,1,29,0,2.5,No,South,1
+CUST-00620,17,Basic,39.28,650.31,Two year,Electronic check,0,1,17,0,3.7,Yes,North,0
+CUST-00621,9,Standard,56.77,520.95,One year,Electronic check,0,2,32,0,3.1,No,North,0
+CUST-00622,25,Basic,36.44,861.53,Two year,Bank transfer,1,0,25,2,1.7,No,North,0
+CUST-00623,1,Premium,78.46,74.07,Two year,Credit card,3,0,50,2,3.1,No,East,0
+CUST-00624,19,Premium,97.72,1811.46,One year,Electronic check,0,3,51,1,2,Yes,East,0
+CUST-00625,20,Basic,35.03,688.4,Month-to-month,Mailed check,4,1,17,0,3,No,West,0
+CUST-00626,42,Premium,94.55,3761.66,Month-to-month,Credit card,5,2,46,2,2.1,No,West,1
+CUST-00627,14,Standard,61.88,887.67,Month-to-month,Mailed check,1,2,35,0,2.6,No,West,1
+CUST-00628,31,Basic,27.7,812.71,Month-to-month,Credit card,2,3,41,1,2.5,No,North,1
+CUST-00629,20,Standard,48.54,995.38,One year,Credit card,2,3,38,1,3.5,No,North,0
+CUST-00630,21,Standard,58.43,1201.15,Two year,Bank transfer,0,2,41,3,3.2,No,South,0
+CUST-00631,17,Basic,34.05,569.26,Month-to-month,Bank transfer,2,3,13,0,1.6,No,North,1
+CUST-00632,18,Basic,36.16,637.77,One year,Mailed check,0,1,14,0,2.1,No,West,0
+CUST-00633,22,Premium,77.1,1759.83,One year,Mailed check,1,0,49,0,3.2,Yes,East,0
+CUST-00634,11,Standard,61.22,684.85,Month-to-month,Bank transfer,0,1,26,2,3.5,Yes,West,1
+CUST-00635,29,Premium,87.25,2504.77,One year,Bank transfer,2,1,30,1,1.7,Yes,West,0
+CUST-00636,12,Standard,50.67,596.63,Two year,Electronic check,2,0,33,0,2.8,Yes,South,0
+CUST-00637,22,Basic,34.76,777.2,One year,Mailed check,0,3,18,0,2.7,Yes,South,0
+CUST-00638,24,Basic,38.03,942.22,One year,Electronic check,0,0,25,0,3.9,Yes,South,0
+CUST-00639,21,Basic,36.36,728.64,One year,Credit card,0,1,23,1,2.2,Yes,West,0
+CUST-00640,31,Premium,95.48,2954.17,Month-to-month,Bank transfer,2,2,49,0,2.6,Yes,East,0
+CUST-00641,15,Basic,33.88,480.31,Month-to-month,Electronic check,0,2,14,0,3.2,Yes,West,1
+CUST-00642,2,Premium,88.49,168.36,Month-to-month,Mailed check,6,2,23,4,2.1,Yes,South,1
+CUST-00643,21,Premium,78.25,1700.01,Month-to-month,Electronic check,0,0,46,2,4,Yes,North,0
+CUST-00644,5,Premium,75.62,371.91,Month-to-month,Electronic check,2,1,43,1,2.6,No,North,1
+CUST-00645,31,Standard,70.87,2143.22,Month-to-month,Credit card,2,3,22,1,2.2,No,West,1
+CUST-00646,22,Basic,34.17,749.76,Two year,Electronic check,0,2,11,0,3,Yes,West,0
+CUST-00647,19,Basic,39.37,770.2,One year,Bank transfer,0,0,19,0,3.1,Yes,South,1
+CUST-00648,10,Standard,67.07,684.37,One year,Mailed check,4,0,20,0,1.2,Yes,East,0
+CUST-00649,27,Premium,94.35,2503.71,Month-to-month,Mailed check,5,1,52,1,2.9,Yes,West,1
+CUST-00650,8,Basic,31.3,238.67,One year,Mailed check,2,1,6,3,2.3,No,West,0
+CUST-00651,32,Standard,49.07,1554.51,Month-to-month,Bank transfer,3,0,36,2,2.5,No,South,1
+CUST-00652,14,Standard,65.12,870.67,Month-to-month,Bank transfer,4,2,20,1,3.3,No,South,0
+CUST-00653,13,Basic,42.71,549.87,One year,Electronic check,3,2,24,1,1.8,No,South,1
+CUST-00654,21,Standard,44.5,940.32,Month-to-month,Credit card,1,3,31,1,3,Yes,North,1
+CUST-00655,19,Premium,102.05,1947.33,Two year,Credit card,1,1,31,0,2.4,Yes,South,1
+CUST-00656,17,Premium,76.54,1328.83,Month-to-month,Mailed check,0,2,34,0,3.6,No,North,1
+CUST-00657,8,Basic,31.59,248.42,Two year,Credit card,1,1,26,1,3.4,Yes,North,1
+CUST-00658,18,Standard,59.05,1028.98,One year,Electronic check,3,2,29,2,2.3,Yes,East,1
+CUST-00659,37,Standard,55.67,1946.63,One year,Mailed check,3,2,28,2,3,Yes,West,0
+CUST-00660,17,Basic,46.01,744.89,One year,Electronic check,4,2,13,0,2.2,No,North,1
+CUST-00661,30,Basic,40.74,1167.38,One year,Credit card,0,2,12,0,2.9,Yes,East,1
+CUST-00662,15,Basic,32.04,471.24,Month-to-month,Credit card,0,2,31,0,2.3,No,West,1
+CUST-00663,1,Premium,90.44,88.65,Two year,Mailed check,1,3,47,0,3.1,No,South,1
+CUST-00664,22,Standard,66.01,1466.23,Month-to-month,Credit card,0,2,36,0,2.4,No,West,1
+CUST-00665,8,Standard,62.5,481.78,Month-to-month,Mailed check,2,0,25,3,3.4,Yes,East,1
+CUST-00666,1,Standard,59.98,56.87,Two year,Electronic check,3,1,42,1,2.4,No,South,1
+CUST-00667,23,Basic,32.52,736.31,One year,Mailed check,0,1,19,0,5,Yes,North,0
+CUST-00668,21,Standard,56.57,1162.89,Month-to-month,Mailed check,2,0,20,2,2.4,No,South,1
+CUST-00669,20,Basic,39.87,781.5,Month-to-month,Credit card,3,2,27,0,1.7,No,East,1
+CUST-00670,24,Basic,28.22,650.91,One year,Electronic check,1,0,20,1,2,No,East,0
+CUST-00671,11,Basic,41.89,464.32,Month-to-month,Mailed check,0,3,28,1,3.4,No,North,1
+CUST-00672,12,Basic,34.77,421.66,Two year,Electronic check,1,4,16,0,2.7,No,West,0
+CUST-00673,36,Basic,27.76,964.38,One year,Mailed check,0,1,26,0,4.1,Yes,East,0
+CUST-00674,6,Standard,53.75,321.7,One year,Credit card,1,1,32,2,3,Yes,South,1
+CUST-00675,35,Basic,38.39,1321.09,Two year,Credit card,0,2,27,1,2.6,Yes,East,0
+CUST-00676,19,Basic,35.16,672.32,Two year,Electronic check,0,2,25,0,4.1,No,North,0
+CUST-00677,27,Premium,88.56,2405.64,One year,Mailed check,0,0,32,0,3.4,No,East,0
+CUST-00678,51,Premium,78.1,4059.32,Month-to-month,Credit card,3,3,37,0,2.9,No,South,1
+CUST-00679,29,Premium,87.55,2497.74,One year,Credit card,0,1,36,2,4,No,West,1
+CUST-00680,20,Premium,68.99,1349.1,Month-to-month,Bank transfer,0,3,31,1,2.9,No,North,1
+CUST-00681,5,Standard,58.22,289.2,Two year,Bank transfer,2,0,31,2,2.3,Yes,West,1
+CUST-00682,32,Premium,90.19,2884.61,One year,Mailed check,3,1,33,1,3.6,No,South,1
+CUST-00683,24,Premium,71.66,1647.79,Two year,Mailed check,2,2,51,1,2.7,No,West,0
+CUST-00684,18,Premium,102.61,1899.4,Month-to-month,Credit card,3,0,37,0,3.9,Yes,West,0
+CUST-00685,4,Standard,53.79,220.8,One year,Mailed check,0,0,60,0,3.8,No,West,1
+CUST-00686,6,Basic,35.67,203.05,Two year,Mailed check,0,0,4,2,3,No,South,0
+CUST-00687,1,Premium,93.77,94.34,One year,Mailed check,0,0,38,3,1.8,Yes,West,1
+CUST-00688,14,Standard,65.17,946.56,One year,Mailed check,1,2,33,0,3.9,Yes,North,0
+CUST-00689,23,Standard,51.84,1156.84,Month-to-month,Bank transfer,1,1,29,1,2.2,No,South,0
+CUST-00690,22,Basic,27.46,618.74,One year,Credit card,3,2,20,0,3.3,No,North,0
+CUST-00691,1,Premium,90.63,88.32,Two year,Credit card,1,1,64,0,4.7,No,North,0
+CUST-00692,9,Premium,68.58,583.06,One year,Bank transfer,3,0,40,0,3.3,No,North,0
+CUST-00693,33,Basic,31.06,1038.58,Two year,Electronic check,4,0,27,1,1.8,Yes,West,0
+CUST-00694,23,Basic,38.3,828.38,Two year,Electronic check,2,1,22,0,2.3,No,East,0
+CUST-00695,12,Premium,95.31,1124.22,Month-to-month,Electronic check,0,1,46,2,2.3,No,West,0
+CUST-00696,25,Premium,76.87,1852.35,One year,Credit card,1,1,51,0,2.9,Yes,East,1
+CUST-00697,15,Standard,51.33,760.16,One year,Electronic check,1,1,55,2,3.7,Yes,West,0
+CUST-00698,1,Basic,27.71,28.21,One year,Bank transfer,1,2,18,0,1.8,Yes,North,1
+CUST-00699,4,Premium,104.85,423.62,Month-to-month,Bank transfer,2,1,38,1,3.4,No,North,1
+CUST-00700,30,Standard,53.92,1580.73,One year,Mailed check,2,3,9,0,3.9,No,West,0
+CUST-00701,24,Premium,79.07,1809.12,Two year,Mailed check,4,2,42,0,2.9,Yes,North,1
+CUST-00702,11,Standard,48.56,553.27,Month-to-month,Electronic check,4,0,29,0,2.5,No,East,1
+CUST-00703,19,Standard,54.57,1037.43,Month-to-month,Electronic check,2,2,23,0,3.7,No,South,1
+CUST-00704,21,Premium,102.24,2115.83,Two year,Bank transfer,0,2,32,1,4.3,No,North,0
+CUST-00705,19,Basic,29.67,546.43,Month-to-month,Electronic check,5,3,6,0,2.8,No,West,1
+CUST-00706,23,Basic,37.4,837.81,One year,Mailed check,2,1,35,2,4.3,Yes,East,0
+CUST-00707,18,Basic,33.83,593.29,One year,Bank transfer,3,1,25,0,3.9,No,West,1
+CUST-00708,31,Premium,93.39,2944.96,Month-to-month,Credit card,3,2,47,1,3,Yes,West,1
+CUST-00709,1,Premium,83.71,82.54,One year,Mailed check,0,1,42,1,2.7,No,East,1
+CUST-00710,14,Premium,71.6,966.43,One year,Mailed check,0,2,47,0,2.6,Yes,East,0
+CUST-00711,11,Standard,53.84,559.88,Two year,Bank transfer,0,1,36,0,4,No,South,0
+CUST-00712,12,Premium,89.68,1100.48,Month-to-month,Bank transfer,0,1,38,2,4.5,Yes,North,1
+CUST-00713,29,Premium,95.18,2599.58,Two year,Credit card,2,2,48,2,2,No,East,1
+CUST-00714,29,Basic,26.76,763.32,Month-to-month,Credit card,4,0,12,0,3,No,East,1
+CUST-00715,21,Basic,29.35,606.92,Month-to-month,Bank transfer,3,0,25,3,3.8,No,North,0
+CUST-00716,25,Standard,58.7,1472.56,Two year,Bank transfer,3,1,27,0,3.6,No,North,0
+CUST-00717,1,Standard,53.27,50.65,One year,Bank transfer,0,1,27,0,2.1,Yes,South,0
+CUST-00718,26,Premium,82.2,2050.45,One year,Electronic check,1,1,40,0,3.7,Yes,North,0
+CUST-00719,34,Basic,27.91,933.04,One year,Mailed check,3,4,16,0,3.8,Yes,North,0
+CUST-00720,34,Basic,32.17,1046.34,One year,Bank transfer,2,1,13,1,3.4,No,South,1
+CUST-00721,14,Standard,56.85,800.31,Month-to-month,Credit card,5,0,16,1,2.8,No,South,1
+CUST-00722,30,Basic,40.2,1169.74,Month-to-month,Electronic check,5,0,5,2,3,Yes,West,0
+CUST-00723,36,Premium,90.24,3245.08,One year,Credit card,2,2,34,1,3.1,Yes,East,1
+CUST-00724,30,Standard,55.16,1707.31,Month-to-month,Mailed check,3,1,22,2,2.5,No,East,1
+CUST-00725,22,Basic,34.99,799.96,Month-to-month,Bank transfer,3,3,10,1,1.5,No,West,1
+CUST-00726,27,Basic,38.93,1008.12,One year,Electronic check,3,2,36,2,2.6,Yes,East,1
+CUST-00727,32,Basic,35.47,1129.38,Two year,Bank transfer,3,1,16,2,1,No,East,1
+CUST-00728,8,Standard,59.06,486.65,Month-to-month,Bank transfer,1,1,38,0,3.1,Yes,North,0
+CUST-00729,40,Standard,61.6,2506.37,Month-to-month,Credit card,3,0,31,2,1.8,No,West,1
+CUST-00730,27,Standard,47.85,1294.14,Two year,Mailed check,2,0,28,1,3.3,No,West,0
+CUST-00731,16,Premium,72.41,1162.19,Month-to-month,Credit card,4,1,46,2,2.7,No,South,0
+CUST-00732,32,Standard,51.41,1638.28,One year,Credit card,1,2,26,0,3,Yes,West,0
+CUST-00733,20,Premium,89.56,1709.06,Month-to-month,Bank transfer,2,1,39,1,2.6,Yes,South,1
+CUST-00734,4,Standard,54.06,212.78,One year,Bank transfer,2,1,23,1,2.8,No,North,0
+CUST-00735,1,Basic,36.48,35.31,One year,Credit card,0,1,28,1,3.4,No,North,1
+CUST-00736,18,Basic,27.92,491.35,One year,Mailed check,0,0,30,2,3.6,No,North,0
+CUST-00737,1,Standard,57.25,55.89,One year,Bank transfer,0,1,35,2,3.6,Yes,North,1
+CUST-00738,17,Basic,33.36,560.8,Month-to-month,Bank transfer,4,0,16,2,3.6,No,West,1
+CUST-00739,29,Premium,81.75,2268.76,Two year,Electronic check,0,1,46,2,2.7,Yes,West,0
+CUST-00740,16,Premium,87.08,1336.95,One year,Credit card,4,0,50,1,3,No,West,1
+CUST-00741,1,Basic,35.93,35.01,One year,Bank transfer,3,4,7,0,2.4,Yes,South,1
+CUST-00742,2,Standard,42.99,85.92,Month-to-month,Mailed check,3,2,31,3,2.7,No,West,1
+CUST-00743,1,Standard,57.09,53.86,Month-to-month,Credit card,1,1,35,3,2.6,No,South,1
+CUST-00744,32,Premium,86.7,2746.69,Two year,Bank transfer,3,1,49,0,1.5,No,South,0
+CUST-00745,31,Premium,94.79,2992.23,Two year,Mailed check,2,1,51,2,2.4,Yes,North,0
+CUST-00746,15,Standard,62.78,903.5,One year,Bank transfer,0,3,19,0,2.9,No,East,0
+CUST-00747,17,Basic,36.35,614.46,One year,Credit card,3,1,17,1,2.9,Yes,West,0
+CUST-00748,10,Basic,38.59,370.47,Two year,Mailed check,3,4,31,0,2.4,No,North,1
+CUST-00749,21,Basic,34.28,738.96,One year,Credit card,1,0,13,1,3.7,No,North,0
+CUST-00750,16,Basic,36.38,557.14,One year,Bank transfer,2,3,5,0,3.1,Yes,South,1
+CUST-00751,30,Standard,54.37,1666.49,Month-to-month,Electronic check,3,1,28,4,2.8,No,West,1
+CUST-00752,44,Standard,67.53,2990.31,One year,Mailed check,2,2,26,1,3.6,No,East,0
+CUST-00753,1,Standard,60.77,61.63,Month-to-month,Bank transfer,1,0,30,2,2.9,No,South,1
+CUST-00754,23,Standard,70.01,1638.22,Two year,Bank transfer,3,1,24,0,2.3,Yes,North,0
+CUST-00755,7,Premium,80.98,555.92,Two year,Bank transfer,0,1,40,0,3.5,No,South,0
+CUST-00756,5,Premium,85.05,400.66,Two year,Electronic check,3,1,47,1,1.8,No,South,1
+CUST-00757,7,Basic,36.21,243.72,Two year,Mailed check,0,1,12,0,3.5,No,South,0
+CUST-00758,5,Premium,84.95,433.28,Two year,Mailed check,4,1,50,4,2.1,No,South,1
+CUST-00759,17,Basic,35.38,614.23,Month-to-month,Mailed check,2,3,25,1,2.6,Yes,North,0
+CUST-00760,19,Standard,61.59,1100.8,Two year,Electronic check,0,0,26,1,4.7,Yes,West,0
+CUST-00761,6,Standard,53.82,315.1,One year,Mailed check,4,0,22,0,1.6,Yes,South,1
+CUST-00762,17,Standard,54.41,908.3,Month-to-month,Electronic check,2,2,36,0,1.8,No,North,1
+CUST-00763,32,Premium,97.4,3199.4,Month-to-month,Electronic check,1,0,46,4,1.9,No,North,1
+CUST-00764,12,Premium,99.45,1222.93,Month-to-month,Credit card,3,1,40,2,2.5,Yes,East,0
+CUST-00765,26,Premium,83.22,2249.38,Month-to-month,Mailed check,1,1,40,1,2.4,Yes,East,0
+CUST-00766,18,Basic,28.96,503.59,Two year,Mailed check,0,2,8,0,2.1,Yes,East,1
+CUST-00767,11,Basic,32.88,360.29,Month-to-month,Mailed check,2,3,34,0,2.9,Yes,East,0
+CUST-00768,6,Premium,79.24,493.32,Month-to-month,Bank transfer,4,0,32,0,3.5,Yes,East,1
+CUST-00769,5,Standard,61.45,297.48,Two year,Credit card,0,0,27,2,3.2,Yes,South,1
+CUST-00770,22,Premium,97.16,2155.11,Month-to-month,Credit card,2,3,22,3,3.5,No,West,1
+CUST-00771,15,Basic,33.96,487.5,Month-to-month,Mailed check,2,0,45,2,2.9,No,North,1
+CUST-00772,14,Standard,59.33,828.31,Month-to-month,Electronic check,0,1,25,1,3.1,Yes,North,0
+CUST-00773,28,Standard,62,1769.81,One year,Mailed check,2,2,24,0,3.1,No,North,1
+CUST-00774,37,Basic,45.11,1626.54,Two year,Mailed check,0,4,29,2,3,Yes,South,1
+CUST-00775,35,Premium,76.54,2702.41,Two year,Bank transfer,1,1,47,1,2.5,Yes,East,1
+CUST-00776,19,Standard,52.85,964.36,Two year,Electronic check,0,1,45,0,3.7,Yes,West,0
+CUST-00777,31,Premium,95.32,3036.17,One year,Mailed check,1,3,41,0,2.5,No,South,0
+CUST-00778,5,Basic,29.55,146.08,One year,Credit card,1,1,36,0,3.4,Yes,West,0
+CUST-00779,6,Basic,30.89,192.41,Two year,Mailed check,2,0,19,1,2.2,Yes,West,0
+CUST-00780,16,Premium,87.36,1325.35,One year,Bank transfer,3,1,49,0,2.7,No,North,0
+CUST-00781,1,Standard,59.77,57.08,Two year,Mailed check,3,0,35,1,3.1,Yes,North,0
+CUST-00782,6,Basic,41.79,249.17,Month-to-month,Electronic check,1,0,36,2,4.2,Yes,South,0
+CUST-00783,21,Basic,30.09,605.75,One year,Electronic check,0,1,2,1,3.3,Yes,North,0
+CUST-00784,20,Premium,94.78,1914.01,Month-to-month,Electronic check,4,1,40,3,2.2,Yes,North,1
+CUST-00785,28,Premium,72.88,2010.73,One year,Electronic check,0,0,35,0,4.8,Yes,South,0
+CUST-00786,18,Basic,32.74,610.83,One year,Credit card,0,3,5,0,2.8,No,West,0
+CUST-00787,9,Premium,81.27,701.37,One year,Mailed check,0,1,26,1,4.1,Yes,West,0
+CUST-00788,25,Basic,40.63,1041.07,Month-to-month,Credit card,2,2,15,3,2.7,No,East,1
+CUST-00789,23,Basic,41.54,953.41,Month-to-month,Mailed check,3,2,33,1,2.3,No,West,0
+CUST-00790,28,Basic,30.74,851.74,Month-to-month,Bank transfer,0,0,34,2,2.7,Yes,East,1
+CUST-00791,41,Basic,34.52,1370.03,Two year,Bank transfer,1,1,27,0,3.4,Yes,East,0
+CUST-00792,17,Premium,96.36,1595.55,Two year,Mailed check,0,2,33,4,2.6,No,West,1
+CUST-00793,43,Basic,31,1332.52,Two year,Electronic check,0,2,22,0,1.9,Yes,East,0
+CUST-00794,20,Basic,41.99,797.39,Two year,Credit card,1,0,20,0,3.3,Yes,East,0
+CUST-00795,52,Premium,92.95,4686.35,Two year,Credit card,1,3,31,1,2.2,Yes,East,0
+CUST-00796,24,Standard,64.09,1575.35,Month-to-month,Mailed check,1,1,44,2,3.1,Yes,East,1
+CUST-00797,7,Basic,35.57,250.44,Two year,Mailed check,0,1,11,1,2.8,No,West,0
+CUST-00798,19,Premium,87.4,1619.42,One year,Electronic check,1,0,40,4,2.6,Yes,West,0
+CUST-00799,27,Standard,55.15,1523.87,Two year,Mailed check,2,2,34,2,2.4,No,South,0
+CUST-00800,18,Premium,94.82,1725.17,One year,Bank transfer,3,4,28,1,2.9,Yes,South,1
+CUST-00801,23,Premium,95.32,2173.56,Two year,Electronic check,0,0,45,1,3.2,No,West,0
+CUST-00802,27,Basic,33.17,856.09,Month-to-month,Bank transfer,3,4,17,0,1.8,No,East,1
+CUST-00803,10,Standard,47.65,465.39,Month-to-month,Bank transfer,4,0,35,1,3.3,Yes,South,1
+CUST-00804,14,Premium,74.46,1057.31,One year,Mailed check,5,0,44,1,3.5,No,South,0
+CUST-00805,1,Premium,86.95,83.32,Two year,Bank transfer,0,1,33,0,4.4,No,East,1
+CUST-00806,14,Standard,60.42,864.82,One year,Bank transfer,0,0,40,1,2.4,Yes,East,0
+CUST-00807,29,Premium,73.36,2070.85,One year,Bank transfer,7,2,51,3,2.4,No,West,1
+CUST-00808,28,Basic,35.24,946.63,One year,Electronic check,0,1,35,3,3,No,North,0
+CUST-00809,41,Standard,62.53,2533.07,Month-to-month,Mailed check,4,1,39,5,1.6,Yes,North,1
+CUST-00810,20,Basic,33.79,635.9,Month-to-month,Electronic check,3,2,13,1,2.8,No,East,1
+CUST-00811,3,Standard,61,181.88,Month-to-month,Bank transfer,4,0,36,2,2.3,Yes,West,1
+CUST-00812,44,Basic,30.34,1319.48,One year,Mailed check,0,3,41,1,3,No,South,0
+CUST-00813,1,Standard,61.92,60.51,Two year,Electronic check,2,0,21,0,3.3,Yes,West,0
+CUST-00814,1,Basic,32.02,30.54,Month-to-month,Bank transfer,2,0,21,1,3.4,Yes,West,1
+CUST-00815,11,Basic,35.23,380.9,Month-to-month,Mailed check,1,2,25,1,2.5,No,West,0
+CUST-00816,36,Standard,58.14,2061.36,Two year,Bank transfer,1,0,21,0,4,Yes,West,0
+CUST-00817,1,Basic,37.97,36.93,Two year,Electronic check,1,0,21,1,1,No,North,1
+CUST-00818,15,Basic,24.82,355.55,Two year,Bank transfer,1,3,23,1,1.5,No,East,0
+CUST-00819,12,Premium,93.58,1065.84,One year,Mailed check,3,4,40,0,3.4,No,South,1
+CUST-00820,13,Premium,94.35,1164.29,Two year,Credit card,1,2,33,2,3.3,No,East,1
+CUST-00821,38,Basic,29.63,1075.25,Month-to-month,Electronic check,0,1,11,1,3.4,No,East,0
+CUST-00822,1,Premium,83.44,84.82,Month-to-month,Bank transfer,3,0,35,1,1.9,No,South,1
+CUST-00823,10,Basic,36.32,342.61,One year,Credit card,4,3,35,0,2.1,Yes,South,0
+CUST-00824,7,Standard,56.51,377.1,Month-to-month,Electronic check,2,2,32,2,2,No,South,1
+CUST-00825,24,Standard,57.13,1425.16,One year,Credit card,0,1,28,0,3.6,No,East,0
+CUST-00826,30,Basic,38.09,1145.79,Month-to-month,Electronic check,2,2,25,1,2.8,No,East,0
+CUST-00827,9,Standard,58.9,502.71,Month-to-month,Electronic check,5,1,28,0,3.5,No,East,1
+CUST-00828,6,Standard,57.27,352.11,Month-to-month,Electronic check,0,0,28,0,3.6,Yes,West,1
+CUST-00829,25,Standard,52.96,1308.22,Two year,Mailed check,2,2,17,0,3.7,Yes,North,0
+CUST-00830,24,Premium,76.25,1898.39,Two year,Electronic check,1,1,40,1,2.7,Yes,East,0
+CUST-00831,31,Standard,52.18,1680.94,Month-to-month,Credit card,1,1,39,0,2.5,No,West,1
+CUST-00832,1,Basic,34.05,35.35,One year,Bank transfer,0,3,30,1,1,No,West,0
+CUST-00833,26,Standard,59.83,1487.69,Two year,Credit card,0,0,41,0,2.8,Yes,South,0
+CUST-00834,12,Basic,37.05,450.61,Two year,Bank transfer,0,1,30,3,2.9,No,East,0
+CUST-00835,26,Standard,47.88,1238.5,One year,Electronic check,2,0,38,0,3.2,No,South,0
+CUST-00836,22,Standard,57.15,1276.3,One year,Bank transfer,1,0,24,1,3.7,Yes,East,0
+CUST-00837,15,Standard,51.45,784.84,One year,Credit card,2,3,44,1,2.9,No,West,1
+CUST-00838,24,Standard,62.77,1443.75,Two year,Bank transfer,0,0,35,0,4.2,Yes,South,0
+CUST-00839,18,Standard,68.73,1201.42,Two year,Credit card,3,3,37,3,2.6,No,East,1
+CUST-00840,29,Basic,31.65,879.32,Month-to-month,Mailed check,3,0,27,0,3.9,Yes,East,0
+CUST-00841,1,Basic,40.23,41.54,Two year,Mailed check,0,1,17,1,2.5,No,South,0
+CUST-00842,20,Standard,59.44,1181.15,One year,Electronic check,0,2,36,1,3.3,No,East,0
+CUST-00843,5,Standard,64.85,313.13,Month-to-month,Electronic check,2,2,13,1,2.7,No,North,1
+CUST-00844,16,Standard,61.43,954.75,Month-to-month,Bank transfer,4,0,32,3,3.3,No,South,1
+CUST-00845,17,Standard,59.88,989.99,Month-to-month,Electronic check,0,0,45,2,2.8,Yes,East,1
+CUST-00846,23,Basic,33.76,741.27,Two year,Electronic check,2,0,12,0,3.7,No,South,0
+CUST-00847,1,Standard,60.73,62.85,One year,Electronic check,2,1,38,0,1.9,Yes,North,0
+CUST-00848,22,Standard,52.59,1093.85,Two year,Bank transfer,0,0,26,0,3.5,Yes,West,0
+CUST-00849,15,Standard,59.1,880.48,Two year,Electronic check,1,0,38,0,2.8,Yes,West,0
+CUST-00850,26,Premium,96.67,2409.1,One year,Electronic check,1,0,47,2,2.6,No,East,1
+CUST-00851,18,Standard,56.3,956.17,One year,Mailed check,2,1,53,2,2.5,No,East,0
+CUST-00852,1,Standard,64.9,65.2,One year,Electronic check,3,1,47,0,1.7,No,South,1
+CUST-00853,57,Basic,34.43,2018.56,One year,Mailed check,1,2,22,0,2.9,Yes,East,0
+CUST-00854,9,Basic,36.14,335.98,Month-to-month,Electronic check,4,4,24,3,2.7,No,North,1
+CUST-00855,22,Premium,83.19,1750.85,Two year,Credit card,2,0,32,0,3.3,Yes,South,0
+CUST-00856,3,Premium,73.99,210.26,Two year,Electronic check,4,0,52,1,2,No,West,0
+CUST-00857,21,Basic,29.65,597.63,Month-to-month,Credit card,1,2,31,3,2.6,Yes,North,1
+CUST-00858,16,Premium,67.13,1018.08,Month-to-month,Bank transfer,1,1,38,2,2.9,Yes,East,1
+CUST-00859,9,Standard,58.09,525.59,Month-to-month,Mailed check,1,2,27,3,3.4,No,North,0
+CUST-00860,34,Premium,78.89,2755.38,Two year,Bank transfer,1,0,35,1,3.4,Yes,West,1
+CUST-00861,32,Standard,53.68,1650.11,One year,Bank transfer,3,0,42,0,2.7,Yes,West,0
+CUST-00862,25,Premium,83.13,2101.9,Month-to-month,Electronic check,4,2,41,2,2.9,Yes,South,1
+CUST-00863,2,Standard,52.6,103.59,Two year,Bank transfer,1,0,44,0,4.3,No,North,0
+CUST-00864,10,Basic,30.16,288.34,Month-to-month,Mailed check,5,1,20,3,2.5,No,South,0
+CUST-00865,14,Basic,34.71,504.15,One year,Bank transfer,0,2,8,0,3.2,No,West,0
+CUST-00866,31,Basic,30.09,951.99,One year,Mailed check,3,4,18,1,1.7,No,South,1
+CUST-00867,3,Standard,69.13,200.55,Two year,Electronic check,2,1,41,0,3.7,No,East,0
+CUST-00868,13,Premium,81.07,1079.72,One year,Mailed check,3,2,40,2,2.6,Yes,West,1
+CUST-00869,15,Premium,90.66,1374.82,Month-to-month,Electronic check,1,2,34,3,3,No,South,1
+CUST-00870,24,Premium,96.11,2262.08,Month-to-month,Bank transfer,0,2,48,2,2.6,No,South,1
+CUST-00871,18,Premium,82.33,1537.15,One year,Mailed check,0,1,25,1,2.3,No,West,1
+CUST-00872,15,Premium,77.99,1137.85,One year,Electronic check,1,0,34,2,2.8,Yes,South,1
+CUST-00873,40,Premium,90.34,3642.18,One year,Bank transfer,4,3,52,1,2.4,Yes,North,0
+CUST-00874,30,Basic,24.98,773.14,Two year,Electronic check,4,3,25,1,2.3,Yes,West,0
+CUST-00875,29,Basic,36.16,1032.38,Two year,Mailed check,1,2,16,0,2.5,No,West,0
+CUST-00876,16,Standard,64.82,993.73,One year,Electronic check,2,0,29,2,2.7,Yes,West,1
+CUST-00877,24,Basic,33.61,774.34,Two year,Bank transfer,3,1,13,1,2.6,Yes,West,0
+CUST-00878,18,Standard,60.97,1038.83,Month-to-month,Electronic check,2,1,29,0,1.8,Yes,South,1
+CUST-00879,22,Premium,87.75,1943.12,Two year,Electronic check,4,2,47,1,3.7,Yes,North,0
+CUST-00880,8,Basic,32.82,262.65,Month-to-month,Electronic check,2,0,29,2,3.3,No,East,1
+CUST-00881,33,Standard,47.65,1617.76,Two year,Electronic check,0,0,29,0,3.3,No,East,0
+CUST-00882,23,Premium,73.75,1679.82,Two year,Mailed check,0,4,27,2,2.7,No,South,0
+CUST-00883,31,Premium,101.79,3189.57,Month-to-month,Credit card,0,0,54,1,2.8,Yes,South,1
+CUST-00884,25,Basic,26.96,674.75,Two year,Bank transfer,0,0,16,1,4.8,Yes,South,0
+CUST-00885,9,Standard,52.51,474.23,Month-to-month,Credit card,0,2,25,1,2,No,North,1
+CUST-00886,27,Standard,65,1673.14,One year,Bank transfer,0,3,10,0,3.6,Yes,West,0
+CUST-00887,16,Standard,61.23,998.45,Month-to-month,Mailed check,1,2,22,3,1.4,No,East,1
+CUST-00888,25,Standard,55.09,1335.71,One year,Bank transfer,1,0,40,1,3.4,No,North,0
+CUST-00889,21,Premium,81.84,1786.72,Two year,Mailed check,3,2,40,2,2.6,Yes,East,0
+CUST-00890,10,Standard,61.06,610.02,Month-to-month,Mailed check,2,2,25,0,3.3,Yes,East,0
+CUST-00891,21,Premium,74.66,1582.98,Month-to-month,Electronic check,4,1,44,1,1.7,Yes,West,1
+CUST-00892,44,Standard,56.26,2482.89,One year,Bank transfer,0,0,26,0,3.7,No,South,0
+CUST-00893,7,Premium,89.95,652.81,Month-to-month,Electronic check,4,1,48,0,2.5,No,West,1
+CUST-00894,9,Basic,36.03,320.65,Month-to-month,Bank transfer,3,2,23,2,2.5,No,South,1
+CUST-00895,4,Standard,71.72,273.32,One year,Electronic check,2,2,26,2,1.8,No,North,1
+CUST-00896,15,Standard,46.23,690.6,Two year,Bank transfer,1,2,14,1,3.1,No,South,1
+CUST-00897,29,Standard,54.18,1529.32,Two year,Mailed check,1,1,37,0,3.3,Yes,East,0
+CUST-00898,12,Premium,77.11,901.57,Month-to-month,Bank transfer,0,0,49,3,3.5,Yes,North,1
+CUST-00899,14,Standard,58.38,837.84,Month-to-month,Electronic check,3,0,32,1,3.2,Yes,South,1
+CUST-00900,1,Basic,41.76,41.23,Two year,Bank transfer,5,2,24,0,3.2,No,South,0
+CUST-00901,18,Premium,81.85,1391.7,Month-to-month,Credit card,5,3,44,3,1.2,Yes,South,1
+CUST-00902,17,Premium,93.69,1545.63,Two year,Credit card,0,2,44,1,3.3,No,East,1
+CUST-00903,1,Basic,34.61,34.91,Two year,Mailed check,3,1,18,1,3.6,No,North,1
+CUST-00904,39,Premium,85.57,3219.99,Month-to-month,Electronic check,3,0,45,2,4.7,Yes,West,0
+CUST-00905,27,Premium,92.06,2422.93,Month-to-month,Bank transfer,2,1,36,1,3.6,Yes,East,1
+CUST-00906,1,Standard,50.83,48.2,Two year,Credit card,2,3,24,0,2.8,Yes,East,0
+CUST-00907,21,Premium,87.8,1857.87,Two year,Bank transfer,4,1,47,2,3.1,No,North,0
+CUST-00908,1,Basic,25.65,25.14,Two year,Mailed check,1,0,19,1,4.4,Yes,East,0
+CUST-00909,24,Premium,102.41,2451.29,Month-to-month,Electronic check,0,1,40,1,4.2,Yes,East,0
+CUST-00910,6,Premium,88.53,537.85,Month-to-month,Credit card,4,0,36,0,2.9,Yes,North,1
+CUST-00911,16,Basic,39.96,601.88,Month-to-month,Bank transfer,4,1,29,2,2,Yes,North,1
+CUST-00912,10,Basic,38.83,370.34,Month-to-month,Bank transfer,1,1,20,3,3.8,No,South,1
+CUST-00913,28,Standard,48.58,1394.16,One year,Electronic check,0,3,37,0,2,No,North,0
+CUST-00914,7,Basic,38.13,254.01,Two year,Bank transfer,2,1,42,2,3.3,Yes,East,0
+CUST-00915,26,Premium,69.25,1793.71,Two year,Bank transfer,1,2,52,0,3.1,No,East,0
+CUST-00916,2,Premium,90.46,175.26,Two year,Mailed check,3,0,51,2,3.5,Yes,East,0
+CUST-00917,6,Standard,55.89,319.77,One year,Credit card,1,0,22,2,3.5,Yes,North,0
+CUST-00918,26,Premium,81.34,2062.55,Two year,Bank transfer,3,3,45,1,3.5,Yes,North,0
+CUST-00919,13,Premium,88.91,1090.51,One year,Bank transfer,1,2,22,0,3,Yes,South,0
+CUST-00920,19,Basic,21.39,398.41,One year,Credit card,2,3,14,1,2.3,No,South,1
+CUST-00921,21,Standard,65.79,1342.41,Two year,Electronic check,3,0,34,1,1.9,Yes,West,1
+CUST-00922,24,Standard,63.41,1488.59,Month-to-month,Electronic check,2,1,41,2,2.4,No,West,1
+CUST-00923,19,Basic,27.33,496.92,Two year,Electronic check,0,4,11,2,1.2,Yes,North,1
+CUST-00924,34,Premium,82.12,2773.87,One year,Electronic check,2,0,45,1,3.2,No,South,0
+CUST-00925,18,Standard,57.02,994.54,Two year,Bank transfer,0,1,27,0,3.8,Yes,North,0
+CUST-00926,7,Basic,31.81,221.37,Two year,Bank transfer,0,1,23,1,4.4,No,East,0
+CUST-00927,53,Premium,94.69,4956.05,One year,Credit card,1,0,27,0,3.5,Yes,North,0
+CUST-00928,10,Premium,105.08,1034.65,Two year,Bank transfer,3,1,34,1,3.5,Yes,West,1
+CUST-00929,25,Standard,51.26,1238.58,One year,Credit card,1,1,37,1,3.4,Yes,East,0
+CUST-00930,27,Basic,40.35,1122.01,One year,Credit card,1,0,10,0,3.3,No,North,0
+CUST-00931,12,Basic,29.64,347.75,Two year,Mailed check,2,0,26,0,3.7,No,East,0
+CUST-00932,4,Premium,79.45,308.02,One year,Bank transfer,2,0,32,2,2.4,No,South,1
+CUST-00933,9,Standard,61.8,562.49,One year,Mailed check,0,0,32,3,3,No,North,0
+CUST-00934,1,Premium,88.68,87.92,Month-to-month,Electronic check,3,4,60,0,2.9,No,South,1
+CUST-00935,21,Basic,33.41,718.33,Two year,Mailed check,0,2,27,2,3.2,Yes,West,0
+CUST-00936,23,Standard,54.88,1188.58,Month-to-month,Credit card,5,2,36,1,1.2,No,West,1
+CUST-00937,20,Basic,34.2,689.52,Two year,Mailed check,0,2,18,2,2.6,No,East,0
+CUST-00938,37,Standard,58.76,2052.74,Month-to-month,Electronic check,1,1,37,4,2.3,No,North,1
+CUST-00939,13,Standard,59.64,790.1,Month-to-month,Bank transfer,2,0,28,1,3.7,No,West,1
+CUST-00940,33,Premium,84.79,2907,One year,Bank transfer,0,2,39,1,3.5,Yes,East,0
+CUST-00941,16,Basic,30.53,479.5,One year,Electronic check,1,1,11,1,3.2,No,East,0
+CUST-00942,21,Premium,88.21,1793.92,Two year,Credit card,0,2,18,0,2.3,No,East,1
+CUST-00943,15,Premium,83.19,1290.9,One year,Bank transfer,0,1,35,1,3.1,No,North,0
+CUST-00944,8,Premium,88.59,712.42,One year,Bank transfer,2,1,48,0,3.3,No,West,1
+CUST-00945,35,Standard,54.19,1879.97,One year,Bank transfer,0,0,41,0,4.1,No,North,0
+CUST-00946,5,Standard,56.2,281.42,One year,Bank transfer,4,2,15,2,2.4,No,South,1
+CUST-00947,5,Basic,28.54,145.79,Two year,Bank transfer,1,2,37,2,3.2,No,North,0
+CUST-00948,20,Premium,77.64,1487.66,Month-to-month,Bank transfer,2,2,43,1,2.6,Yes,East,1
+CUST-00949,11,Basic,31.53,326.66,Two year,Credit card,0,1,23,0,3.3,Yes,South,0
+CUST-00950,43,Premium,84.8,3569.77,Month-to-month,Bank transfer,3,0,45,3,2.7,No,East,1
+CUST-00951,18,Basic,34.1,579.33,Month-to-month,Credit card,5,0,19,1,3.2,Yes,North,1
+CUST-00952,16,Basic,28.97,455.79,Two year,Mailed check,2,2,15,0,4,No,East,0
+CUST-00953,19,Standard,63.18,1155.77,Two year,Mailed check,4,1,31,0,2.8,Yes,East,0
+CUST-00954,27,Premium,77.75,2130.44,Month-to-month,Bank transfer,0,1,45,1,3.3,No,East,1
+CUST-00955,9,Basic,33.61,293.27,Two year,Bank transfer,3,1,27,0,2.7,Yes,North,1
+CUST-00956,20,Basic,27.89,563.65,Month-to-month,Credit card,1,2,26,1,2.9,Yes,East,1
+CUST-00957,25,Standard,63.66,1509.87,One year,Bank transfer,1,2,45,1,3.3,Yes,East,0
+CUST-00958,27,Standard,62.18,1653.04,Month-to-month,Bank transfer,2,2,32,2,2.9,Yes,East,0
+CUST-00959,14,Basic,33.44,461.14,One year,Credit card,2,0,27,0,1.4,No,West,0
+CUST-00960,23,Basic,39.82,864.96,Two year,Bank transfer,1,1,18,1,1.5,No,North,0
+CUST-00961,28,Premium,85.19,2346.38,Two year,Mailed check,0,3,49,0,3,Yes,North,0
+CUST-00962,8,Premium,96.7,773.7,Two year,Credit card,1,1,50,0,3.7,Yes,West,0
+CUST-00963,45,Premium,82.01,3727.07,Month-to-month,Credit card,3,0,44,2,4.3,Yes,South,0
+CUST-00964,6,Premium,72.06,413.17,Two year,Bank transfer,3,1,48,3,3.6,Yes,East,0
+CUST-00965,24,Standard,64.89,1547.31,Two year,Bank transfer,0,0,42,0,3.2,Yes,South,0
+CUST-00966,31,Premium,86.32,2650.49,Month-to-month,Electronic check,2,0,40,1,3.1,No,East,1
+CUST-00967,21,Premium,84.6,1816.97,Month-to-month,Electronic check,3,1,22,2,3.3,Yes,West,1
+CUST-00968,28,Basic,28.17,753.44,Month-to-month,Electronic check,0,3,33,1,2.9,Yes,East,0
+CUST-00969,24,Standard,59.28,1418.04,Month-to-month,Electronic check,2,4,31,2,1.5,Yes,North,1
+CUST-00970,14,Premium,105.32,1515.7,Month-to-month,Credit card,1,1,26,0,2.9,Yes,North,0
+CUST-00971,4,Premium,87.27,359.31,One year,Mailed check,2,3,43,2,1.6,No,South,1
+CUST-00972,9,Premium,85.88,778,Two year,Bank transfer,0,1,42,1,2.3,No,South,0
+CUST-00973,8,Premium,80.27,609.26,Month-to-month,Bank transfer,3,0,47,2,2.3,Yes,South,1
+CUST-00974,36,Basic,35.96,1246.46,Month-to-month,Bank transfer,3,0,29,2,3.2,Yes,North,1
+CUST-00975,3,Basic,28.82,89.27,One year,Electronic check,0,2,10,0,3.6,No,North,0
+CUST-00976,33,Premium,87.98,2756.98,One year,Credit card,2,0,52,2,1.4,Yes,South,0
+CUST-00977,1,Basic,35.09,35.14,Two year,Mailed check,1,2,28,3,2.2,Yes,South,1
+CUST-00978,34,Premium,100.51,3269.35,Two year,Electronic check,3,0,48,0,2.8,No,East,0
+CUST-00979,9,Standard,50.61,448.87,Two year,Credit card,2,2,33,4,3.4,Yes,West,1
+CUST-00980,32,Premium,92.61,3081.66,Two year,Bank transfer,2,1,32,0,2,No,North,0
+CUST-00981,12,Premium,97.89,1198.53,Two year,Electronic check,0,0,53,2,3.7,Yes,South,0
+CUST-00982,40,Basic,27.47,1129.11,Two year,Electronic check,1,2,26,0,3.1,No,West,0
+CUST-00983,21,Standard,58.85,1280.37,One year,Credit card,0,0,35,0,3.3,Yes,West,0
+CUST-00984,21,Premium,87.72,1895.09,One year,Credit card,1,1,38,1,3.5,No,West,0
+CUST-00985,25,Standard,64.2,1659.65,One year,Mailed check,0,2,47,1,4.2,No,South,0
+CUST-00986,44,Basic,33.31,1387.51,Month-to-month,Credit card,4,2,25,2,2.8,No,South,1
+CUST-00987,26,Basic,31.72,821.49,Month-to-month,Mailed check,2,1,23,0,3.4,Yes,North,1
+CUST-00988,2,Premium,81.76,169.44,Month-to-month,Electronic check,1,0,45,2,1.1,Yes,East,1
+CUST-00989,24,Basic,37.27,900.25,Two year,Mailed check,2,2,17,2,2.8,No,South,1
+CUST-00990,25,Basic,33.46,794.87,Month-to-month,Credit card,0,2,20,0,1.9,No,South,1
+CUST-00991,20,Basic,38.29,760.08,Month-to-month,Bank transfer,2,5,9,3,1.4,No,South,1
+CUST-00992,12,Standard,48.69,580.06,Month-to-month,Mailed check,2,0,27,0,4.1,Yes,South,1
+CUST-00993,10,Premium,97.65,933.1,One year,Credit card,1,1,50,2,2.9,Yes,South,1
+CUST-00994,18,Premium,83.23,1431.9,Two year,Electronic check,2,2,33,1,2.9,Yes,North,0
+CUST-00995,1,Basic,31.13,30.61,Month-to-month,Credit card,3,2,18,0,2.3,No,East,0
+CUST-00996,1,Premium,89.84,85.57,Two year,Mailed check,2,0,15,1,3.4,No,East,1
+CUST-00997,16,Standard,54.44,838.69,One year,Credit card,1,1,17,1,2.4,No,West,0
+CUST-00998,21,Basic,27.21,569.71,Month-to-month,Electronic check,6,2,17,1,2,No,West,1
+CUST-00999,22,Premium,76.46,1592.81,One year,Bank transfer,0,2,34,0,3.7,Yes,South,0
+CUST-01000,27,Basic,36.28,982.68,One year,Electronic check,2,3,29,0,2.9,No,West,0
+CUST-01001,18,Basic,28.94,491.59,One year,Bank transfer,0,2,16,0,2.5,Yes,West,0
+CUST-01002,14,Premium,89.37,1271.26,One year,Electronic check,0,2,33,0,2.7,No,East,1
+CUST-01003,23,Standard,57.43,1288.41,Month-to-month,Electronic check,3,1,24,3,2,Yes,West,1
+CUST-01004,14,Standard,68.07,977.12,Month-to-month,Mailed check,3,0,35,4,2.1,Yes,West,1
+CUST-01005,12,Premium,87.95,1027.82,One year,Credit card,2,0,27,3,2.9,No,East,1
+CUST-01006,28,Standard,58.39,1597.73,One year,Electronic check,0,2,32,0,3.3,Yes,South,0
+CUST-01007,28,Standard,54.41,1574.79,Two year,Bank transfer,2,1,37,0,2.4,No,West,0
+CUST-01008,25,Standard,59.28,1447.9,Month-to-month,Mailed check,4,1,45,2,2.7,No,East,1
+CUST-01009,17,Basic,38.94,657.37,Two year,Electronic check,2,2,9,1,3,No,North,0
+CUST-01010,12,Premium,96.92,1153.54,Two year,Bank transfer,0,2,65,3,2.5,Yes,North,1
+CUST-01011,33,Basic,41.41,1315.46,Month-to-month,Electronic check,3,2,33,1,1.9,No,East,1
+CUST-01012,37,Premium,84.49,3142.71,Month-to-month,Bank transfer,2,0,56,1,3.4,No,West,0
+CUST-01013,14,Premium,91.67,1321.9,One year,Electronic check,5,0,38,2,2.8,Yes,West,0
+CUST-01014,1,Premium,81.29,78.61,One year,Credit card,3,1,42,1,2.8,Yes,East,1
+CUST-01015,24,Premium,89.65,2232,One year,Mailed check,4,0,50,0,2.6,Yes,South,1
+CUST-01016,7,Premium,90.69,642.35,Month-to-month,Mailed check,4,0,51,1,3.2,No,East,1
+CUST-01017,38,Standard,59.27,2298.23,One year,Bank transfer,0,0,28,1,3.3,No,West,0
+CUST-01018,27,Premium,78.92,2171.28,Month-to-month,Mailed check,3,1,43,2,1.3,Yes,North,1
+CUST-01019,48,Basic,41.73,2027.11,Two year,Bank transfer,0,2,35,0,4.2,No,North,0
+CUST-01020,1,Basic,34.53,35.33,One year,Mailed check,3,2,25,0,2.9,Yes,West,0
+CUST-01021,10,Standard,60.63,613.47,Month-to-month,Electronic check,4,2,26,0,3.6,No,West,1
+CUST-01022,45,Premium,78.51,3582.01,One year,Mailed check,0,2,28,2,2.5,No,East,1
+CUST-01023,18,Standard,66.02,1199.19,Month-to-month,Credit card,4,0,14,0,2.1,Yes,South,0
+CUST-01024,24,Standard,59.53,1346.53,Two year,Electronic check,5,1,16,2,1.8,Yes,East,1
+CUST-01025,29,Premium,81.57,2310.96,Month-to-month,Electronic check,2,0,50,2,3.8,Yes,East,1
+CUST-01026,15,Basic,35.59,547.4,Two year,Mailed check,0,2,21,2,3,Yes,West,0
+CUST-01027,32,Premium,86.3,2862.45,One year,Bank transfer,0,1,42,0,3.5,Yes,South,0
+CUST-01028,17,Standard,68.82,1153.83,Two year,Credit card,0,3,45,3,1.2,No,East,1
+CUST-01029,29,Standard,46.5,1321.35,Two year,Credit card,4,0,31,1,2.4,Yes,North,0
+CUST-01030,20,Standard,60.8,1244.4,Two year,Bank transfer,0,1,36,0,3.2,Yes,South,0
+CUST-01031,22,Standard,60.19,1376.5,One year,Bank transfer,1,3,38,0,2.4,Yes,South,0
+CUST-01032,1,Premium,92.22,94.84,One year,Mailed check,1,1,29,1,2.1,Yes,West,0
+CUST-01033,19,Standard,62.05,1138.96,One year,Mailed check,0,0,30,0,4.5,No,South,0
+CUST-01034,27,Basic,31.82,887.22,Month-to-month,Mailed check,1,3,26,1,2.7,Yes,West,1
+CUST-01035,8,Premium,95.9,783.34,One year,Mailed check,0,0,43,0,3.6,No,South,0
+CUST-01036,16,Basic,30.07,484.89,One year,Bank transfer,1,2,28,0,4.2,No,West,0
+CUST-01037,16,Basic,28.82,447.77,Month-to-month,Credit card,2,0,13,3,2.7,No,East,1
+CUST-01038,19,Standard,57.86,1127.85,Month-to-month,Bank transfer,2,1,50,1,3.7,Yes,North,0
+CUST-01039,17,Standard,55.59,933.42,Two year,Mailed check,1,1,26,0,3.8,No,South,1
+CUST-01040,22,Basic,39.67,849.08,One year,Electronic check,0,2,11,0,3.2,No,South,1
+CUST-01041,4,Basic,33.59,130.08,Month-to-month,Credit card,1,1,22,2,1.7,No,East,1
+CUST-01042,24,Premium,90.79,2264.69,Two year,Credit card,3,2,49,1,2.1,No,East,0
+CUST-01043,20,Standard,59.39,1193.36,Two year,Electronic check,3,0,23,2,2.9,No,North,0
+CUST-01044,13,Basic,39.84,500.21,Month-to-month,Electronic check,4,3,27,0,2.3,Yes,West,1
+CUST-01045,1,Premium,90.23,90.33,One year,Bank transfer,0,1,35,0,3,Yes,South,0
+CUST-01046,10,Standard,63.47,651.15,One year,Credit card,2,2,31,0,3.4,Yes,East,0
+CUST-01047,12,Standard,60.44,701.19,Two year,Electronic check,2,3,27,0,3.5,No,East,1
+CUST-01048,29,Standard,65.45,1847.04,One year,Electronic check,3,1,20,2,2.5,No,North,0
+CUST-01049,12,Basic,42.03,489.72,Month-to-month,Credit card,2,1,26,0,2.1,No,North,1
+CUST-01050,24,Premium,86.96,2055.42,Two year,Mailed check,2,0,49,1,3.4,No,East,1
+CUST-01051,18,Standard,56.31,1033.09,Two year,Credit card,2,1,32,0,3,No,East,0
+CUST-01052,3,Premium,76.77,228.89,Two year,Electronic check,0,3,36,2,2.6,No,South,1
+CUST-01053,16,Basic,34.43,536.27,Two year,Mailed check,3,1,2,0,3,Yes,North,0
+CUST-01054,31,Standard,59.88,1914.28,Two year,Electronic check,0,2,33,0,2.2,No,North,0
+CUST-01055,21,Basic,37.98,785.86,One year,Credit card,0,2,30,0,1.6,Yes,South,0
+CUST-01056,21,Premium,97.37,2048.14,Month-to-month,Mailed check,3,1,31,1,2.7,Yes,West,1
+CUST-01057,4,Standard,62.2,250.46,Two year,Mailed check,1,1,44,0,2.8,Yes,East,0
+CUST-01058,11,Standard,62.5,684.23,Month-to-month,Mailed check,3,2,29,2,2.7,No,North,1
+CUST-01059,30,Basic,30.73,907.1,Two year,Bank transfer,0,2,12,2,3.4,Yes,West,0
+CUST-01060,28,Premium,86.54,2431.21,One year,Mailed check,1,0,28,2,3,Yes,East,0
+CUST-01061,5,Standard,63.4,315.17,One year,Mailed check,0,0,34,3,2.3,No,South,0
+CUST-01062,11,Basic,20.13,213.6,Month-to-month,Mailed check,2,0,20,2,3.9,Yes,North,1
+CUST-01063,9,Basic,36.29,308.72,One year,Credit card,2,2,23,0,2.7,Yes,East,1
+CUST-01064,1,Basic,22.67,23.1,One year,Electronic check,2,1,16,2,3.9,Yes,West,0
+CUST-01065,10,Premium,85.66,852.29,Two year,Credit card,1,1,39,0,3.9,No,South,0
+CUST-01066,1,Basic,36.69,37.05,Two year,Mailed check,1,0,7,2,2.8,Yes,South,0
+CUST-01067,11,Premium,87.19,917.24,Month-to-month,Electronic check,1,0,34,3,2.9,No,North,1
+CUST-01068,35,Standard,57.54,2088.42,Month-to-month,Mailed check,5,1,29,1,3.1,Yes,East,1
+CUST-01069,38,Premium,83.54,3153.81,One year,Credit card,1,1,47,0,2.1,No,South,0
+CUST-01070,28,Basic,24.33,651.24,Month-to-month,Bank transfer,1,2,28,3,2.3,Yes,East,1
+CUST-01071,18,Basic,36.73,658.48,Two year,Electronic check,3,1,9,1,2.9,Yes,North,0
+CUST-01072,16,Standard,52.42,853.88,Month-to-month,Electronic check,1,0,56,1,2.8,No,East,1
+CUST-01073,7,Standard,49.92,346.85,Month-to-month,Credit card,2,1,19,2,4.8,No,East,1
+CUST-01074,46,Standard,64.53,2937.17,Two year,Credit card,3,3,26,1,2.9,No,South,0
+CUST-01075,21,Standard,56.39,1231.2,One year,Credit card,1,2,42,1,3.6,No,South,1
+CUST-01076,29,Premium,91.22,2521.38,One year,Credit card,4,1,51,0,3,Yes,East,0
+CUST-01077,23,Standard,48.1,1054.08,Month-to-month,Electronic check,2,0,18,5,2.8,Yes,North,1
+CUST-01078,6,Basic,35.92,218.95,Two year,Bank transfer,1,4,21,2,1.2,No,West,1
+CUST-01079,20,Premium,94.92,1793.51,Two year,Electronic check,0,2,55,0,2.2,No,West,0
+CUST-01080,12,Basic,34.52,413.6,One year,Bank transfer,2,2,28,2,2.3,Yes,South,0
+CUST-01081,5,Basic,33.81,160.41,Two year,Credit card,2,3,29,0,2.3,Yes,East,0
+CUST-01082,22,Basic,32.34,715.22,Month-to-month,Bank transfer,0,1,37,2,3,Yes,South,1
+CUST-01083,21,Premium,86.86,1726.01,Two year,Electronic check,1,3,22,1,2.4,No,East,0
+CUST-01084,33,Standard,48.21,1497.96,Month-to-month,Electronic check,1,1,42,4,3,Yes,East,1
+CUST-01085,13,Standard,50.14,677.32,One year,Bank transfer,2,1,42,1,3.9,No,North,1
+CUST-01086,24,Premium,72.47,1723.27,One year,Mailed check,1,0,26,0,4.3,No,East,0
+CUST-01087,16,Premium,76.5,1252.43,Two year,Bank transfer,0,3,50,0,3.2,No,North,0
+CUST-01088,12,Basic,27.44,320.63,Two year,Mailed check,2,1,34,0,2.8,No,North,0
+CUST-01089,11,Standard,57.05,607.25,Month-to-month,Bank transfer,3,0,25,0,2.5,Yes,South,0
+CUST-01090,1,Basic,39.22,39.59,Month-to-month,Bank transfer,0,1,19,1,3.2,Yes,South,0
+CUST-01091,1,Standard,53.15,54.06,Month-to-month,Bank transfer,1,2,10,2,2.6,No,East,1
+CUST-01092,10,Standard,56.8,551.39,One year,Mailed check,3,1,39,1,3,No,East,1
+CUST-01093,19,Basic,37.19,667.53,Month-to-month,Electronic check,4,2,14,1,3.7,Yes,West,1
+CUST-01094,1,Basic,32.53,32.49,Month-to-month,Electronic check,0,2,19,1,3.4,Yes,West,1
+CUST-01095,26,Premium,74.35,1953.06,Two year,Mailed check,3,0,39,1,3.6,Yes,North,0
+CUST-01096,24,Basic,28.86,698.69,One year,Bank transfer,0,2,6,3,3,Yes,North,1
+CUST-01097,38,Premium,89.9,3332.68,One year,Mailed check,2,0,45,0,4,Yes,West,0
+CUST-01098,37,Standard,59.85,2186.91,One year,Bank transfer,1,0,41,2,4.1,No,East,0
+CUST-01099,6,Standard,62.19,372.45,One year,Electronic check,0,0,23,1,4.4,No,West,1
+CUST-01100,12,Premium,75.24,872.24,One year,Mailed check,0,0,28,0,3.5,Yes,South,0
+CUST-01101,21,Standard,59.87,1299.28,Month-to-month,Electronic check,4,1,29,1,3.3,Yes,North,0
+CUST-01102,14,Standard,62.78,832.55,Two year,Bank transfer,1,0,23,0,2.6,No,North,0
+CUST-01103,20,Basic,33.99,687.51,One year,Mailed check,0,1,16,0,3,Yes,West,0
+CUST-01104,34,Standard,59.96,2015.42,Two year,Bank transfer,2,0,41,2,3.6,Yes,South,0
+CUST-01105,48,Premium,96.9,4633.86,One year,Mailed check,0,2,25,2,2.9,Yes,West,0
+CUST-01106,21,Basic,32.26,670.9,Two year,Credit card,0,0,13,1,2.5,No,North,0
+CUST-01107,19,Premium,87.29,1612.64,One year,Credit card,4,1,49,1,2.3,No,North,1
+CUST-01108,21,Premium,58.35,1249.03,Two year,Mailed check,2,2,39,0,2.8,Yes,South,1
+CUST-01109,25,Standard,61.07,1516.6,Month-to-month,Electronic check,0,2,39,3,3.6,Yes,West,1
+CUST-01110,26,Premium,92.05,2468.22,One year,Mailed check,0,3,33,3,1.9,Yes,South,1
+CUST-01111,1,Standard,60.85,60.44,Month-to-month,Mailed check,1,0,16,0,2.7,Yes,North,1
+CUST-01112,17,Standard,65.3,1131.18,One year,Mailed check,2,1,27,1,3.2,Yes,West,0
+CUST-01113,12,Standard,53.48,661.86,One year,Bank transfer,0,2,34,0,3.5,Yes,West,0
+CUST-01114,11,Standard,55.18,576,One year,Credit card,0,1,36,0,3.6,Yes,East,0
+CUST-01115,23,Premium,93.45,2037.69,Month-to-month,Credit card,4,1,52,1,3.7,Yes,North,1
+CUST-01116,9,Standard,48.22,446.87,One year,Mailed check,2,1,37,1,2.8,Yes,South,1
+CUST-01117,18,Basic,23.54,421.83,Month-to-month,Bank transfer,3,3,12,0,3,No,North,0
+CUST-01118,17,Standard,35.38,609.79,Two year,Electronic check,1,0,29,1,1.3,No,West,1
+CUST-01119,20,Premium,83.05,1622.02,Two year,Credit card,2,2,49,1,3.2,Yes,West,0
+CUST-01120,16,Basic,28.66,439.05,One year,Electronic check,1,1,31,0,1.7,No,North,0
+CUST-01121,20,Premium,105.28,1993.76,Two year,Bank transfer,0,0,43,0,3.4,No,West,0
+CUST-01122,12,Standard,60.79,707.78,Month-to-month,Credit card,0,1,30,3,3.5,No,South,1
+CUST-01123,25,Premium,93.54,2347.65,Month-to-month,Bank transfer,3,1,44,2,2.5,No,North,1
+CUST-01124,37,Premium,101.37,3659.54,Month-to-month,Credit card,0,0,49,1,3.8,No,West,0
+CUST-01125,12,Standard,56.22,647.01,Two year,Electronic check,0,2,29,0,3.9,No,North,1
+CUST-01126,11,Basic,33.24,360.74,One year,Mailed check,3,3,28,0,3.3,No,South,1
+CUST-01127,16,Standard,71.32,1121.26,Month-to-month,Mailed check,0,3,36,2,4.1,Yes,South,1
+CUST-01128,26,Basic,41.57,1055.05,One year,Mailed check,1,2,15,0,3.8,Yes,South,0
+CUST-01129,35,Basic,36.82,1246.25,One year,Mailed check,0,0,17,1,3.6,Yes,North,0
+CUST-01130,30,Premium,89.87,2732.04,Month-to-month,Credit card,3,3,49,0,3,Yes,North,1
+CUST-01131,32,Basic,25.3,801.3,One year,Mailed check,2,3,32,2,2.8,No,West,0
+CUST-01132,17,Basic,40.48,700.93,Month-to-month,Mailed check,4,2,18,2,3.3,No,South,1
+CUST-01133,13,Standard,63.18,839.55,One year,Credit card,0,0,19,0,3.9,Yes,South,0
+CUST-01134,11,Basic,32.41,360.96,Month-to-month,Credit card,3,3,27,2,2.2,Yes,East,1
+CUST-01135,13,Standard,71.72,968.04,Two year,Credit card,2,0,37,0,2.9,No,North,0
+CUST-01136,23,Standard,56.49,1241.98,One year,Mailed check,2,2,24,1,3.5,Yes,South,1
+CUST-01137,17,Standard,50.71,838.96,Two year,Credit card,0,0,21,1,3.3,Yes,West,0
+CUST-01138,13,Standard,59.67,735.15,One year,Bank transfer,0,0,37,0,3.8,No,West,1
+CUST-01139,9,Premium,88.84,786.63,One year,Credit card,0,1,42,1,3.8,No,South,0
+CUST-01140,13,Standard,76.57,1032.01,One year,Bank transfer,0,0,37,2,4.1,No,North,0
+CUST-01141,30,Premium,92,2815.44,One year,Bank transfer,1,0,31,0,2.1,No,North,0
+CUST-01142,34,Basic,31.2,1006.98,Month-to-month,Bank transfer,0,2,3,2,3.5,No,East,1
+CUST-01143,2,Basic,32.61,67.57,Two year,Credit card,0,2,2,0,3.1,No,East,0
+CUST-01144,24,Basic,33.64,816.42,One year,Mailed check,1,1,19,0,3.5,No,East,0
+CUST-01145,22,Premium,89.21,1981.44,One year,Credit card,2,1,50,0,2.5,No,East,1
+CUST-01146,26,Standard,61.99,1599.72,Two year,Mailed check,2,1,41,2,3.4,No,West,0
+CUST-01147,33,Premium,95.58,3173.93,Month-to-month,Bank transfer,1,2,43,0,3.8,Yes,West,0
+CUST-01148,39,Standard,63.78,2467.29,One year,Credit card,3,1,46,1,2.7,Yes,South,0
+CUST-01149,24,Basic,32.48,755.04,Month-to-month,Credit card,3,1,25,2,2.4,Yes,North,1
+CUST-01150,43,Standard,56.66,2325.55,One year,Bank transfer,2,2,39,2,3.2,Yes,South,0
+CUST-01151,35,Standard,65.43,2176.63,Two year,Mailed check,0,2,42,0,3.7,Yes,South,0
+CUST-01152,31,Standard,64.08,1880.94,One year,Bank transfer,0,1,37,2,2.8,No,East,1
+CUST-01153,13,Premium,90.16,1166.68,Month-to-month,Bank transfer,2,2,33,0,2.7,No,East,1
+CUST-01154,14,Basic,35.86,520.68,One year,Electronic check,2,3,12,1,2.8,No,West,1
+CUST-01155,21,Premium,84.96,1764.32,Month-to-month,Bank transfer,4,3,54,4,2.5,Yes,West,1
+CUST-01156,11,Premium,81.79,922.81,One year,Electronic check,4,2,37,0,2.5,Yes,South,1
+CUST-01157,5,Premium,89.31,426.07,Two year,Bank transfer,1,1,44,0,3.1,Yes,North,1
+CUST-01158,13,Standard,50.94,643.41,Two year,Mailed check,3,0,30,0,4.5,No,West,0
+CUST-01159,31,Standard,58.11,1821.99,Two year,Mailed check,2,0,27,2,3.9,Yes,West,0
+CUST-01160,32,Standard,53.61,1622.05,One year,Credit card,0,0,39,1,3,Yes,North,0
+CUST-01161,20,Standard,59.36,1119.3,Month-to-month,Mailed check,3,0,42,0,3.5,No,South,0
+CUST-01162,1,Premium,90.75,85.55,Month-to-month,Bank transfer,1,1,39,1,2,Yes,North,1
+CUST-01163,7,Basic,37.63,263.68,Month-to-month,Electronic check,1,2,23,1,2.8,No,South,1
+CUST-01164,32,Basic,39.85,1260.36,Month-to-month,Electronic check,0,0,21,2,4.3,Yes,East,0
+CUST-01165,23,Premium,78.02,1848.49,Month-to-month,Electronic check,2,1,49,1,4.1,No,North,0
+CUST-01166,13,Basic,25.19,326.54,One year,Mailed check,0,1,14,0,3.9,No,North,0
+CUST-01167,9,Premium,77.02,715.91,Two year,Mailed check,3,0,56,2,4,Yes,South,0
+CUST-01168,16,Premium,83.22,1313.78,Two year,Bank transfer,1,1,29,0,2.9,Yes,South,0
+CUST-01169,17,Standard,52.95,883.44,Month-to-month,Credit card,2,1,21,1,3,Yes,North,1
+CUST-01170,6,Premium,81.93,504.04,Month-to-month,Electronic check,2,3,39,0,3.1,Yes,West,0
+CUST-01171,16,Standard,57.27,945.56,Two year,Mailed check,0,1,33,0,3.3,No,South,0
+CUST-01172,36,Standard,48.74,1751.42,Two year,Credit card,2,2,45,0,3,Yes,West,0
+CUST-01173,1,Premium,84.25,85.88,Month-to-month,Credit card,0,1,44,0,3.7,No,East,1
+CUST-01174,11,Standard,69.62,788.62,One year,Electronic check,2,2,22,3,3.9,No,West,1
+CUST-01175,14,Standard,64.45,900.55,Month-to-month,Bank transfer,3,0,37,3,2.2,No,East,1
+CUST-01176,24,Premium,97.83,2340.72,One year,Bank transfer,2,0,41,0,4.1,Yes,South,0
+CUST-01177,21,Basic,34.62,719.04,Two year,Mailed check,2,3,11,0,2.7,No,West,0
+CUST-01178,24,Premium,75.81,1856.52,Month-to-month,Bank transfer,0,1,48,0,2.8,Yes,South,1
+CUST-01179,8,Premium,68.82,566.57,Two year,Electronic check,2,0,37,0,3.7,Yes,East,1
+CUST-01180,27,Standard,68.67,1913.83,One year,Bank transfer,5,1,34,1,1.7,Yes,East,1
+CUST-01181,1,Premium,78.85,80.68,One year,Credit card,2,2,37,0,2.5,No,East,1
+CUST-01182,1,Standard,68.77,68.75,One year,Bank transfer,0,2,17,1,3.1,Yes,North,1
+CUST-01183,34,Basic,35.88,1222.17,Month-to-month,Bank transfer,4,1,25,2,2.4,No,East,1
+CUST-01184,13,Basic,34.1,457.2,Month-to-month,Credit card,2,0,23,3,4.1,No,East,0
+CUST-01185,31,Basic,37.98,1210.68,Two year,Mailed check,2,0,23,0,3,Yes,West,0
+CUST-01186,19,Premium,95.76,1869.97,Two year,Credit card,1,0,38,2,2.8,Yes,West,0
+CUST-01187,36,Standard,43.22,1545.11,Two year,Bank transfer,2,0,28,1,3.7,Yes,South,0
+CUST-01188,16,Basic,37.69,572.05,One year,Mailed check,1,1,32,2,3.6,No,West,0
+CUST-01189,30,Basic,37.22,1156.68,One year,Mailed check,0,2,18,1,3.4,No,West,0
+CUST-01190,29,Basic,34.56,982.38,One year,Electronic check,3,3,7,3,1.9,No,East,0
+CUST-01191,12,Basic,28.46,323.68,Month-to-month,Credit card,5,0,36,1,2.7,Yes,South,1
+CUST-01192,3,Premium,88.01,260.39,Month-to-month,Bank transfer,4,0,24,3,3.2,No,South,1
+CUST-01193,17,Standard,61.24,1030.82,Two year,Mailed check,1,0,30,0,3.8,No,South,0
+CUST-01194,19,Premium,87.55,1728.21,Month-to-month,Credit card,4,1,40,2,2.9,No,East,1
+CUST-01195,39,Premium,68.61,2751.83,Month-to-month,Mailed check,0,1,48,1,3.7,Yes,South,0
+CUST-01196,6,Standard,53.9,336.22,One year,Bank transfer,2,1,28,1,3.5,Yes,West,1
+CUST-01197,1,Premium,88.01,85.08,Two year,Bank transfer,2,0,39,0,3.2,Yes,South,0
+CUST-01198,13,Basic,34.09,434.17,Two year,Credit card,1,2,35,1,3,Yes,North,0
+CUST-01199,23,Standard,53.24,1227.55,Month-to-month,Bank transfer,6,1,51,0,2.4,Yes,West,0
+CUST-01200,19,Basic,27.56,493.76,Month-to-month,Electronic check,1,2,25,2,2.5,No,North,1
